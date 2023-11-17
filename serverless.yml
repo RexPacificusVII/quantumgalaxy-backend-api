@@ -1,0 +1,229 @@
+app: quantumgalaxy-backend-api
+service: quantumgalaxy-backend-api
+frameworkVersion: '3'
+
+plugins:
+  - serverless-dotenv-plugin
+  - serverless-offline
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-southeast-2
+
+functions:
+  userRegister:
+    handler: src/handlers/userRegister.handler
+    events:
+      - httpApi:
+          path: /users/register
+          method: POST
+
+  userLogin:
+    handler: src/handlers/userLogin.handler
+    events:
+      - httpApi:
+          path: /users/login
+          method: POST
+
+  userLogout:
+    handler: src/handlers/userLogout.handler
+    events:
+      - httpApi:
+          path: /users/logout
+          method: POST
+
+  userList:
+    handler: src/handlers/userList.handler
+    events:
+      - httpApi:
+          path: /users
+          method: GET
+
+  userGet:
+    handler: src/handlers/userGet.handler
+    events:
+      - httpApi:
+          path: /users/{id}
+          method: GET
+
+  userEdit:
+    handler: src/handlers/userEdit.handler
+    events:
+      - httpApi:
+          path: /users/{id}
+          method: PATCH
+
+  userDelete:
+    handler: src/handlers/userDelete.handler
+    events:
+      - httpApi:
+          path: /users/{id}
+          method: DELETE
+
+  productList:
+    handler: src/handlers/productList.handler
+    events:
+      - httpApi:
+          path: /products
+          method: GET
+
+  productGet:
+    handler: src/handlers/productGet.handler
+    events:
+      - httpApi:
+          path: /products/{id}
+          method: GET
+
+  productAdd:
+    handler: src/handlers/productAdd.handler
+    events:
+      - httpApi:
+          path: /products
+          method: POST
+
+  productEdit:
+    handler: src/handlers/productEdit.handler
+    events:
+      - httpApi:
+          path: /products/{id}
+          method: PATCH
+
+  productDelete:
+    handler: src/handlers/productDelete.handler
+    events:
+      - httpApi:
+          path: /products/{id}
+          method: DELETE
+
+  productSearch:
+    handler: src/handlers/productSearch.handler
+    events:
+      - httpApi:
+          path: /products/search
+          method: GET
+
+  productFilter:
+    handler: src/handlers/productFilter.handler
+    events:
+      - httpApi:
+          path: /products/filter
+          method: GET
+
+  reviewList:
+    handler: src/handlers/reviewList.handler
+    events:
+      - httpApi:
+          path: /reviews
+          method: GET
+
+  reviewGet:
+    handler: src/handlers/reviewGet.handler
+    events:
+      - httpApi:
+          path: /reviews/{id}
+          method: GET
+
+  reviewGetByProduct:
+    handler: src/handlers/reviewGetByProduct.handler
+    events:
+      - httpApi:
+          path: /reviews/products/{product_id}
+          method: GET
+
+  reviewGetByUser:
+    handler: src/handlers/reviewGetByUser.handler
+    events:
+      - httpApi:
+          path: /reviews/users/{user_id}
+          method: GET
+
+  reviewAdd:
+    handler: src/handlers/reviewAdd.handler
+    events:
+      - httpApi:
+          path: /reviews
+          method: POST
+
+  reviewEdit:
+    handler: src/handlers/reviewEdit.handler
+    events:
+      - httpApi:
+          path: /reviews/{id}
+          method: PATCH
+
+  reviewDelete:
+    handler: src/handlers/reviewDelete.handler
+    events:
+      - httpApi:
+          path: /reviews/{id}
+          method: DELETE
+
+  blogList:
+    handler: src/handlers/blogList.handler
+    events:
+      - httpApi:
+          path: /blogs
+          method: GET
+
+  blogGet:
+    handler: src/handlers/blogGet.handler
+    events:
+      - httpApi:
+          path: /blogs/{id}
+          method: GET
+
+  blogAdd:
+    handler: src/handlers/blogAdd.handler
+    events:
+      - httpApi:
+          path: /blogs
+          method: POST
+
+  blogEdit:
+    handler: src/handlers/blogEdit.handler
+    events:
+      - httpApi:
+          path: /blogs/{id}
+          method: PATCH
+
+  blogDelete:
+    handler: src/handlers/blogDelete.handler
+    events:
+      - httpApi:
+          path: /blogs/{id}
+          method: DELETE
+
+  newsList:
+    handler: src/handlers/newsList.handler
+    events:
+      - httpApi:
+          path: /news
+          method: GET
+
+  newsGet:
+    handler: src/handlers/newsGet.handler
+    events:
+      - httpApi:
+          path: /news/{id}
+          method: GET
+
+  newsAdd:
+    handler: src/handlers/newsAdd.handler
+    events:
+      - httpApi:
+          path: /news
+          method: POST
+
+  newsEdit:
+    handler: src/handlers/newsEdit.handler
+    events:
+      - httpApi:
+          path: /news/{id}
+          method: PATCH
+
+  newsDelete:
+    handler: src/handlers/newsDelete.handler
+    events:
+      - httpApi:
+          path: /news/{id}
+          method: DELETE
