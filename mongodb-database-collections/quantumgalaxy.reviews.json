@@ -1,0 +1,6528 @@
+[{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ad"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "I'm absolutely impressed with the iPhone 13 Pro! The camera quality is outstanding.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108af"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "The battery life on the iPhone 13 Pro is incredible. It lasts all day, even with heavy use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "I got the iPhone SE for its compact size, and it's perfect for one-handed use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 3,
+  "comment": "The camera on the iPhone SE is decent, but it could be better in low-light conditions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "For its price, the iPhone SE is a fantastic value. It's fast and responsive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "The Samsung Galaxy S21 Ultra is a beast! Amazing display and camera quality.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I love the large storage capacity on the S21 Ultra. No need to worry about space.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "The Phantom Black color of the S21 Ultra looks stunning. It's a real head-turner.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210770"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "The Google Pixel 5 has a clean Android experience and a great camera.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210770"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 3,
+  "comment": "The battery life could be better on the Pixel 5, but overall, it's a good phone.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210770"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "I'm a fan of the pure Android experience, and the Pixel 5 delivers that perfectly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108b9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210771"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "The Spigen Tough Armor Case provides excellent protection for my iPhone 13.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ba"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210771"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "I dropped my phone a few times, and this case saved it every time. Highly recommended!",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108bb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210771"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 3,
+  "comment": "The case is sturdy and durable, but it adds a bit of bulk to the phone.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108bc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210772"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "I love the OtterBox Defender Series Case for my Samsung Galaxy S21 Ultra. It offers excellent protection.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108bd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210772"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "The case is sturdy, but it makes the phone a bit bulky.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108be"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210772"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "The OtterBox Defender Case is perfect for my rugged lifestyle. It's durable and reliable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108bf"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210773"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "The amFilm Glass Screen Protector is easy to install and provides solid protection for my iPhone 12 Pro Max.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210773"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "The screen protector is good, but it can trap fingerprints quite easily.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210774"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "The ZAGG InvisibleShield Glass Elite+ Screen Protector is crystal clear and feels great to touch.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210774"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "It's easy to apply and fits my Samsung Galaxy S21 perfectly. Protects the screen well.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210774"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I appreciate the added protection, but it can be a bit reflective in direct sunlight.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210775"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "The Anker PowerPort USB Wall Charger is a speedy charger. It charges my devices in no time.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210775"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "This charger is a game-changer for me. Quick Charge 3.0 support is a plus.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210775"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "The charger works great, but I wish it had more than one USB port.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210776"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "The AmazonBasics USB-A to Lightning Cable is reliable and durable. It's a good length too.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108c9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210776"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "A high-quality cable that charges my iPhone quickly. I'm happy with my purchase.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ca"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210776"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 3,
+  "comment": "The cable is functional, but I wish it had more color options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108cb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210777"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "The iOttie Easy One Touch 4 Car Phone Mount is incredibly convenient. It holds my phone securely.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108cc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210777"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I like the versatility of this car phone mount, but it can obstruct some of my view.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108cd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210777"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "The iOttie car mount is a game-changer for hands-free driving. It's reliable and easy to use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ce"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210778"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "The Lamicall Cell Phone Stand is perfect for my desk. It keeps my phone at a convenient angle.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108cf"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210778"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "It's a well-designed stand, but I wish it had a more non-slip base for added stability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210778"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "The Lamicall stand is a fantastic addition to my workspace. It's sturdy and functional.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210779"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "The Sony WH-1000XM4 headphones offer exceptional noise cancellation and sound quality.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210779"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "I'm impressed with the Sony headphones, but they can be a bit heavy during extended use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210779"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Sony WH-1000XM4 headphones are worth every penny. The noise-canceling is a game-changer for travel.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "The Jabra Elite 75t earbuds provide excellent sound quality, but the battery life could be better.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "Jabra Elite 75t earbuds are compact and sound great. They're my go-to choice for workouts.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I like the Jabra earbuds, but I wish they had more color options for personalization.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "The Dell XPS 13 is a high-performing laptop with a sleek design. It's perfect for work and play.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "The Dell XPS 13 is fast and reliable, but it can get a bit warm during extended use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108d9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "The Dell XPS 13 exceeds my expectations. It's a powerhouse for productivity and entertainment.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108da"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "The MacBook Air M2 is incredibly lightweight and powerful. The Retina display is a joy to work with.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108db"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I love the MacBook Air, but I wish it had more ports for connectivity.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108dc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "MacBook Air M2 is a work of art. It's fast, and the SSD provides ample storage.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108dd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "The Dell XPS 8940 is a beast of a desktop. The Core i9 and SSD make it a powerhouse.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108de"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "The XPS 8940 is great for heavy workloads, but it's a bit bulky.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108df"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Dell XPS 8940 is perfect for my needs. It's fast and handles multitasking with ease.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "The HP Omen 30L is a gaming powerhouse. The Ryzen 9 and SSD+HDD combo are a gamer's dream.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "I'm impressed with the Omen 30L, but it's a bit large for my desk.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "HP Omen 30L handles all my games with ease. The SSD speeds up loading times significantly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "The Dell Ultrasharp U2720Q monitor is perfect for graphic design work. The 4K resolution is crisp.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "I love the clarity of the Ultrasharp U2720Q. It's a great addition to my home office.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821077f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "The Dell Ultrasharp monitor offers excellent color accuracy, but it's a bit on the expensive side.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210780"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "The ASUS ROG Swift PG279QZ is a gaming delight. The high refresh rate and resolution make a difference.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210780"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "I'm enjoying the ASUS ROG monitor, but the stand design could be improved for better stability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210780"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "ASUS ROG Swift PG279QZ enhances my gaming experience. It's a top-tier gaming monitor.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108e9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210781"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "The Logitech MX Master 3 and MX Keys combo is a productivity powerhouse. It makes work a breeze.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ea"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210781"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I love the Logitech combo, but I wish the mouse had more programmable buttons.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108eb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210781"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "Logitech MX Master 3 and MX Keys are a perfect match for my workflow. They're comfortable to use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ec"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210782"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "The Razer BlackWidow Elite keyboard and DeathAdder Elite mouse combo is a gamer's dream.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ed"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210782"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "I'm impressed with the Razer combo, but it's a bit on the expensive side for gaming peripherals.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ee"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210782"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Razer BlackWidow Elite and DeathAdder Elite elevate my gaming setup. They're responsive and durable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ef"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210783"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "The Samsonite Classic Toploader Briefcase is spacious and professional, but it could use more pockets.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210783"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Samsonite Classic Multi Gusset Toploader is my daily companion. It's durable and carries everything I need.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210783"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "I appreciate the quality of Samsonite, but the briefcase could have more interior organization.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210784"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "The AmazonBasics 15.6-Inch Laptop Sleeve is simple yet effective. It protects my laptop during travel.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210784"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "It's a good laptop sleeve, but I wish there were more color options to choose from.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210784"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "AmazonBasics laptop sleeve is a practical solution for my needs. It's slim and lightweight.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210785"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "The Western Digital My Passport 4TB is my portable storage savior. It has ample space for my files.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210785"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "My Passport is reliable, but I wish it had faster transfer speeds for large files.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210785"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Western Digital My Passport is my go-to external drive. It's compact and dependable for backups.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210786"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "The Seagate Expansion 10TB external hard drive is a storage behemoth. It's perfect for backing up my data.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108f9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210786"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "It's a great external drive, but it could be more compact for easier portability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108fa"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210786"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Seagate Expansion 10TB is a storage beast. I have all my media and files in one place.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108fb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210787"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "The SanDisk Ultra CZ48 64GB flash drive is speedy and reliable. It's perfect for quick file transfers.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108fc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210787"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I like the SanDisk flash drive, but it's a bit small and easy to misplace.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108fd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210787"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "SanDisk Ultra CZ48 is my go-to for file storage and transfer. It's handy and fast.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108fe"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210788"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "The Kingston Digital DataTraveler SE9 is small but mighty. It's a reliable USB drive for everyday use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882108ff"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210788"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "It's a great USB drive, but I wish it had a protective cap for the USB connector.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210900"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210788"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "Kingston DataTraveler SE9 is my choice for quick file transfers. It's small enough to carry in my pocket.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210901"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210789"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Bose Noise Cancelling Headphones 700 are a stylish and sound-boosting choice for music lovers.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210902"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210789"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "The Bose headphones are great, but they can be a bit heavy for long listening sessions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210903"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210789"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Bose Noise Cancelling Headphones 700 are my travel companions. They drown out the noise and deliver great audio.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210904"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "The Sony WH-1000XM4 headphones are the king of noise cancellation. They provide a serene listening experience.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210905"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "I'm a fan of the Sony headphones, but the touch controls can be a bit sensitive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210906"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Sony WH-1000XM4 headphones are my daily companions. They make my commute enjoyable with their sound quality.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210907"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "The Apple AirPods Pro with ANC are a game-changer. The sound quality and noise cancellation are top-notch.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210908"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "I love the AirPods Pro, but the battery life could be longer.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210909"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "AirPods Pro are worth the investment. The noise cancellation is fantastic for travel.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821090a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "Sony WF-1000XM4 earbuds are the best for noise cancellation. They're small, comfortable, and sound great.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821090b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "The Sony earbuds are excellent, but I wish the battery life was a bit longer.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821090c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Sony WF-1000XM4 is my daily companion. The noise cancellation helps me focus on work.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821090d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "JBL Charge 4 is a fantastic portable speaker. It's rugged, waterproof, and the sound is great for outdoor activities.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821090e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I enjoy the JBL speaker, but it could have more bass for a better music experience.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821090f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "JBL Charge 4 is the perfect speaker for my beach trips. It's durable and provides excellent sound.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210910"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "Bose SoundLink Revolve is a portable music marvel. I wish the battery life was a bit longer, though.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210911"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "I love the 360 sound of the Bose Revolve speaker. It's great for gatherings and outdoor fun.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210912"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Bose SoundLink Revolve offers excellent sound quality, but it's a bit pricey.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210913"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Sennheiser HD 450BT headphones are comfortable and deliver exceptional sound quality.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210914"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "The Sennheiser headphones are great, but the noise cancellation could be better.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210915"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821078f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "Sennheiser HD 450BT headphones are my go-to for music and gaming. They're versatile and sound fantastic.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210916"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210790"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "The Sony WH-XB900N headphones offer powerful bass and decent noise cancellation. Great for bass lovers.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210917"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210790"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 3,
+  "comment": "I like the bass on the Sony headphones, but the noise cancellation could be improved.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210918"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210790"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Sony WH-XB900N provides an immersive bass experience. They're good for music enthusiasts.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210919"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210791"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "The Audio-Technica AT2020 microphone is a studio essential. It captures clear and crisp audio.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821091a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210791"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I'm pleased with the AT2020 microphone, but a shock mount would be a nice addition for better isolation.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821091b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210791"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "Audio-Technica AT2020 is a top-notch mic for podcasting and recording. It offers excellent value.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821091c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210792"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "The Shure SM58-LC microphone is a classic for vocals. It's reliable and delivers great sound quality.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821091d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210792"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "Shure SM58-LC is a trusted mic, but it could benefit from a longer XLR cable in the package.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821091e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210792"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "Shure SM58-LC is my go-to for live performances. It's durable and captures vocals with clarity.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821091f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210793"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Bose QuietComfort 35 II headphones are the pinnacle of comfort and noise cancellation. Perfect for long flights.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210920"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210793"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "I enjoy the Bose headphones, but I wish they had a bit more bass for music.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210921"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210793"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Bose QuietComfort 35 II is my travel companion. The noise cancellation is impressive, and they're lightweight.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210922"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210794"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Sennheiser HD 660 S headphones are for audiophiles. The open-back design provides excellent soundstage.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210923"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210794"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 3,
+  "comment": "The Sennheiser headphones are high-quality, but they lack in bass for my taste.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210924"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210794"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Sennheiser HD 660 S headphones are my studio choice. They're neutral and provide accurate sound reproduction.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210925"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210795"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "The Avantree Universal Headphone Stand is a stylish addition to my setup. It keeps my headphones organized.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210926"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210795"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "I like the headphone stand, but I wish it had a bit more weight for extra stability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210927"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210795"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Avantree Universal Stand is a sleek and practical solution for keeping my headphones within reach.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210928"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210796"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "The Brainwavz Hengja is a space-saving solution for my desk. It holds my headphones securely.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210929"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210796"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 3,
+  "comment": "I like the desk hanger, but it can wobble a bit when adjusting the headphones.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821092a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210796"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Brainwavz Hengja is a fantastic addition to my workspace. It's sturdy and well-designed.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821092b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210797"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Sony PlayStation 5 is a gaming powerhouse. The graphics and speed are next-level.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821092c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210797"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "I love the PS5, but it can be a bit noisy during extended gaming sessions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821092d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210797"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Sony PS5 is my entertainment hub. The gameplay is smooth, and the graphics are stunning.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821092e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210798"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "The Xbox Series X is a gaming marvel. It's fast, and the Game Pass offers a variety of titles.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821092f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210798"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "I enjoy the Xbox, but it can get warm during extended gaming sessions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210930"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210798"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Microsoft Xbox Series X is my gaming haven. It offers a seamless gaming experience.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210931"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210799"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "The ASUS ROG Zephyrus G14 is a powerful gaming laptop, but it can get a bit hot under heavy load.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210932"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210799"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "I'm amazed by the performance of the ASUS ROG laptop. It handles gaming and multitasking with ease.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210933"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210799"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "ASUS ROG Zephyrus G14 is a solid gaming laptop, but I wish it had more RGB lighting customization options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210934"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "The MSI GS66 Stealth is a gaming powerhouse. The RTX 3080 and 32GB RAM make gaming a breeze.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210935"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I'm impressed by the MSI laptop, but it can get a bit warm during intense gaming sessions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210936"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079a"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "MSI GS66 Stealth is my dream gaming laptop. The performance is exceptional, and it's sleek.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210937"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "The Corsair K95 RGB Platinum XT is a gaming keyboard dream. The RGB lighting is stunning.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210938"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "I enjoy the Corsair combo, but I wish the keyboard wrist rest was a bit more comfortable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210939"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079b"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Corsair K95 RGB Platinum XT is a fantastic keyboard-mouse combo. It elevates my gaming experience.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821093a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "Logitech G Pro X combo is perfect for competitive gaming. The keyboard and mouse are responsive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821093b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "The Logitech combo is great, but I wish it had more customizable RGB lighting options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821093c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079c"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Logitech G Pro X combo is a gamer's delight. It enhances my precision in FPS games.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821093d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "The Xbox Wireless Controller is a must-have for PC gaming. It's responsive and comfortable to hold.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821093e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "I love the Xbox controller, but I wish it had a built-in rechargeable battery like the PS4 controller.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821093f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Xbox Wireless Controller is my gaming companion. It offers precise control in a wide range of games.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210940"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "The DualShock 4 controller is comfortable and works well, but it lacks some of the features of newer controllers.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210941"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "I've always loved the DualShock 4 controller. It's reliable and feels great in my hands.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210942"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079e"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "DualShock 4 is a classic. It's durable, but I'd like it even more with some extra customization options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210943"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "The HyperX Cloud II is a fantastic gaming headset. The sound quality and comfort are exceptional.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210944"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "I enjoy the HyperX headset, but the microphone could be more flexible for adjustments.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210945"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821079f"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "HyperX Cloud II is my go-to for gaming. The surround sound is immersive, and it's comfortable for long sessions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210946"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "The SteelSeries Arctis 7 headset offers great wireless convenience. However, it could use better noise isolation.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210947"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "I love the Arctis 7 headset. It's comfortable, wireless, and the sound quality is top-notch.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210948"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "SteelSeries Arctis 7 is a great wireless headset. The battery life could be a bit longer for extended gaming.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210949"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "The Oculus Quest 2 is mind-blowing! The virtual reality experience is truly immersive and versatile.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821094a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Oculus Quest 2 offers amazing VR experiences, but the battery life can be limiting for extended play.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821094b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "Oculus Quest 2 is the best standalone VR headset. The library of games and experiences is fantastic.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821094c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "HTC VIVE Cosmos Elite offers premium VR experiences, but the setup can be a bit complex for beginners.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821094d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I'm blown away by the HTC VIVE Cosmos Elite. The tracking and visuals are on another level.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821094e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "HTC VIVE Cosmos Elite delivers an immersive VR experience, but it comes at a premium price.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821094f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "The RESPAWN 110 gaming chair is the ultimate comfort for long gaming sessions. The racing style is a bonus.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210950"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "I enjoy the RESPAWN chair, but I wish it had a bit more cushioning on the seat.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210951"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "RESPAWN 110 is a gamer's dream chair. It's comfortable, and the design matches my gaming setup.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210952"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "The Homall Gaming Chair is a comfortable and stylish addition to my gaming setup.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210953"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "I like the Homall chair, but I wish it had more adjustable lumbar support.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210954"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Homall Gaming Chair is perfect for long gaming sessions. The ergonomic design is a plus.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210955"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "The Apple Watch Series 7 is a fantastic smartwatch. The display and features are impressive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210956"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "I enjoy the Apple Watch, but I wish it had more third-party app support.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210957"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Apple Watch Series 7 is a great companion for my daily activities. It's sleek and functional.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210958"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "Samsung Galaxy Watch 4 is a feature-packed smartwatch, but I found the battery life a bit short.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210959"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "I love the Galaxy Watch 4. It syncs seamlessly with my Samsung phone, and the fitness tracking is accurate.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821095a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "Samsung Galaxy Watch 4 is a stylish and functional smartwatch, but it could benefit from more third-party apps.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821095b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "The Fitbit Charge 5 is an excellent fitness tracker. It helps me stay on top of my health and workouts.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821095c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "I find the Fitbit Charge 5 useful for tracking, but it's a bit bulkier than I expected.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821095d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Fitbit Charge 5 is my daily companion for fitness tracking. It's accurate and keeps me motivated.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821095e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "The Garmin Venu 2S is a great fitness tracker with GPS. The battery life could be improved.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821095f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Garmin Venu 2S helps me track my runs and workouts with precision. It's a reliable fitness tracker.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210960"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "I like the Garmin Venu 2S for its fitness features, but the interface could be more intuitive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210961"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "The Sony PlayStation VR Mega Pack offers an amazing VR gaming experience. It's a must-have for any PS4 owner.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210962"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "PlayStation VR is great, but setup can be a bit tricky. Once it's running, the games are immersive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210963"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107a9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Sony PlayStation VR is my gateway to virtual reality. The bundle includes a variety of exciting games.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210964"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107aa"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "Oculus Rift S provides a PC-powered VR experience, but the cable management can be a bit cumbersome.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210965"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107aa"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "I'm amazed by Oculus Rift S. The tracking and visuals are top-notch, and it's a great choice for PC gamers.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210966"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107aa"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "Oculus Rift S offers an impressive VR experience, but it could use more comfortable head straps.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210967"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ab"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Bose Frames are a unique combination of sunglasses and headphones. The audio quality is surprisingly good.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210968"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ab"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I enjoy Bose Frames, but they can be a bit heavy for extended wear.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210969"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ab"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Bose Frames provide a stylish way to enjoy music while keeping your ears open. Great for outdoor activities.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821096a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ac"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "North Focals 2.0 is a cool concept for smart glasses, but I wish the AR display was more vibrant.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821096b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ac"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I'm impressed with North Focals 2.0. The custom prescription lenses make them a practical daily accessory.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821096c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ac"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "North Focals 2.0 is a glimpse into the future, but it could use more software applications and updates.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821096d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ad"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "The Fitbit Charge 4 Replacement Band is a perfect fit for my Fitbit. It's comfortable and durable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821096e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ad"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "I like the Fitbit replacement band, but it could offer more color options to personalize my device.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821096f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ad"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "Fitbit Charge 4 Replacement Band is a practical accessory. It's easy to swap and keeps my Fitbit secure.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210970"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ae"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "The Phoenix Fitness Running Sports Armband is a must-have for runners. It securely holds my phone during workouts.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210971"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ae"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "I find the Phoenix Fitness armband convenient, but it could be more sweat-resistant.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210972"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ae"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Phoenix Fitness Armband is my running buddy. It's comfortable and keeps my phone in place.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210973"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107af"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Bellabeat Leaf Urban is a stylish health tracker, but it could offer more advanced fitness features.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210974"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107af"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I love the Bellabeat Leaf Urban. It's a beautiful piece of jewelry that also tracks my health and wellness.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210975"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107af"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Bellabeat Leaf Urban is a unique wearable, but I wish it had a longer battery life.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210976"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "The Motiv Ring is a discreet and accurate fitness tracker. It provides valuable insights into my health.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210977"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "Motiv Ring is a compact health tracker, but it could benefit from more detailed sleep tracking.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210978"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Motiv Ring is a game-changer in wearable tech. It's lightweight, and I don't even notice I'm wearing it.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210979"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "The Canon EOS 5D Mark IV is a professional-grade DSLR camera. The image quality and performance are exceptional.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821097a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Canon EOS 5D Mark IV is a fantastic camera, but it's on the heavier side for extended photography sessions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821097b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I'm in love with the Canon EOS 5D Mark IV. It's a photographer's dream come true.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821097c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "Nikon D7500 is a great DX-format DSLR, but it could use more built-in creative modes.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821097d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "I'm impressed with the Nikon D7500. The image quality and fast performance make it a versatile camera.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821097e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Nikon D7500 is a solid choice for photography, but the Wi-Fi connectivity can be a bit finicky.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821097f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Sony Alpha a7 III is a top-tier mirrorless camera. The image quality and low-light performance are exceptional.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210980"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I'm happy with the Sony Alpha a7 III, but it can be a bit bulky for everyday use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210981"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Sony Alpha a7 III is a game-changer for my photography. The focus speed and dynamic range are impressive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210982"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "Fujifilm X-T4 is a versatile mirrorless camera, but it could use more lens options in the Fujifilm lineup.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210983"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "I adore the Fujifilm X-T4. It's a reliable companion for travel photography, and the image quality is superb.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210984"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "Fujifilm X-T4 is a great mirrorless camera, but it's a bit heavy for long shooting sessions.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210985"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "The Canon EF 50mm f/1.8 STM Lens is a fantastic prime lens for portraits. It's sharp and budget-friendly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210986"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "I enjoy using the Canon EF 50mm lens, but I wish it had image stabilization for handheld shots.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210987"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Canon EF 50mm f/1.8 STM Lens is my go-to for beautiful bokeh. It's a must-have for any Canon shooter.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210988"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Nikon 50mm f/1.8G Lens delivers great image quality, but it's a bit noisy during autofocus.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210989"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "I'm thrilled with the Nikon 50mm lens. It's an excellent choice for portrait and low-light photography.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821098a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "Nikon 50mm f/1.8G Lens is a great prime lens, but I wish it had a metal mount for added durability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821098b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Manfrotto MT190XPRO4 is a reliable and sturdy tripod. It's essential for stable shots and long-exposure photography.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821098c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "I like the Manfrotto tripod, but it's a bit heavy for extended outdoor photography trips.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821098d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Manfrotto MT190XPRO4 is a professional's choice for tripod. It's durable and offers great stability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821098e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "The DJI Ronin-S Gimbal Stabilizer is a game-changer for video creators. It provides smooth and stable shots.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821098f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "I enjoy using the DJI Ronin-S, but it could have a more intuitive mobile app for customization.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210990"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "DJI Ronin-S is a must-have for anyone serious about videography. It's easy to use and delivers great results.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210991"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "Lowepro ProTactic BP 450 AW II is a comfortable camera backpack, but it could have more pockets for organization.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210992"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "I love the Lowepro ProTactic backpack. It's a reliable companion for my photography gear.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210993"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107b9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "Lowepro ProTactic is a durable camera backpack, but it's a bit heavy when fully loaded.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210994"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ba"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "The Pelican 1510 Case with Foam is a tough and waterproof case. It's perfect for protecting valuable equipment.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210995"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ba"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "Pelican 1510 Case is great, but it could use more interior dividers for better organization.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210996"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ba"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Pelican 1510 Case is my go-to for camera gear. It offers unmatched protection and durability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210997"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "SanDisk Extreme Pro 128GB SDXC is a fast and reliable memory card. It's ideal for high-quality video and photos.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210998"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "I like the SanDisk memory card, but it could be more affordable for larger capacities.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210999"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "SanDisk Extreme Pro SDXC is my choice for professional photography. It never lets me down.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821099a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "Lexar Professional 64GB SDXC offers great read speeds, but it could be more durable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821099b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "I'm satisfied with the Lexar Professional memory card. It's perfect for my camera and video work.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821099c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Lexar Professional memory card is fast, but it could have a better write speed for 4K video recording.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821099d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Neewer 660 LED Video Light is a versatile and bright lighting solution for my video production needs.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821099e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "I find the Neewer 660 LED Light impressive, but the controls could be more intuitive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece8821099f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Neewer 660 LED Light is a fantastic addition to my studio setup. The color temperature control is great.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107be"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "Godox SL-60W LED Light is powerful, but it generates some heat during extended use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107be"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I'm thrilled with the performance of the Godox SL-60W. It's a reliable light for my photography work.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107be"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "Godox SL-60W is a solid studio light, but it could have more diffuser options included.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bf"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Amazon Echo (4th Gen) is a smart speaker that's become an integral part of my daily life.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bf"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "I like the Amazon Echo, but it could offer more third-party app integrations.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107bf"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Amazon Echo has transformed my home. It's convenient and has excellent voice recognition.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "Google Nest Audio is a great smart speaker, but it could have a more extensive music library.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "I enjoy the Google Nest Audio's sound quality and Google Assistant integration. It's a fantastic addition to my home.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "Google Nest Audio is smart and convenient, but it could have more customization options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109a9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "Philips Hue White and Color Ambiance Starter Kit is a great way to set up smart lighting at home.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109aa"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "I like the Philips Hue Starter Kit, but it could have a more user-friendly app for controlling the lights.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ab"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Philips Hue Starter Kit transformed my home's ambiance. The ability to change colors and dim lights is fantastic.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ac"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "LIFX Mini White Smart LED Bulb is an affordable and easy way to enter the world of smart lighting.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ad"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "I'm pleased with the LIFX Mini White bulb, but it could have more integration with other smart home devices.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ae"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "LIFX Mini White bulb is a simple yet effective smart lighting solution. It's a great addition to my home.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109af"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "Nest Learning Thermostat is a smart energy-saving device, but it could be more user-friendly in terms of settings.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "I love the Nest Learning Thermostat. It adapts to my schedule and has helped reduce my energy bills.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "Nest Learning Thermostat is great, but I wish it had more customization options for HVAC systems.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Ecobee4 Smart Thermostat is excellent. The built-in Alexa and remote control options make it a top choice.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I find the Ecobee4 Smart Thermostat useful, but it could be more energy-efficient in its recommendations.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "Ecobee4 Smart Thermostat has made my home more comfortable. I appreciate its compatibility with various smart platforms.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "August Wi-Fi Smart Lock (4th Gen) has simplified my home security. The remote control features are fantastic.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I like the August Wi-Fi Smart Lock, but I wish it had a more streamlined installation process.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "August Wi-Fi Smart Lock is a game-changer. It adds convenience and peace of mind to my daily life.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "Yale Assure Lock SL is a modern and secure smart lock, but it could have a simpler user interface.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109b9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "I'm impressed with the Yale Assure Lock SL. It's key-free, reliable, and provides an added layer of security.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ba"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Yale Assure Lock SL is a solid choice for a smart lock, but I wish it had more finish options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109bb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Arlo Pro 3 Security Camera Kit is a fantastic choice for home security. The wire-free design makes installation a breeze.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109bc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "I'm happy with the Arlo Pro 3 cameras, but they could have a wider field of view.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109bd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Arlo Pro 3 offers excellent video quality and works seamlessly with my smart home setup.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109be"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "Ring Spotlight Cam is a reliable security camera, but it could have better battery life.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109bf"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I love the Ring Spotlight Cam. It provides a clear view of my property and deters unwanted visitors.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Ring Spotlight Cam is a good choice for home security, but I wish it had more customization options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "TP-Link Kasa Smart Wi-Fi Plug Mini is a convenient solution for controlling appliances remotely.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "I find the TP-Link Kasa plugs useful, but they could have a more compact design.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107c9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "TP-Link Kasa Smart Wi-Fi Plugs have made my home smarter and more energy-efficient. They work flawlessly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ca"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "Amazon Smart Plug is a seamless addition to my Alexa-powered home. It's user-friendly and reliable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ca"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "I like the Amazon Smart Plug, but it could have more compatibility with other smart platforms.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ca"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Amazon Smart Plug simplifies my daily routines. It's a must-have for any smart home enthusiast.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Samsung SmartThings Hub (3rd Gen) is a capable smart home controller, but it could have more advanced automation features.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I appreciate the versatility of the Samsung SmartThings Hub. It's a central hub for my smart devices.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109c9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "Samsung SmartThings Hub is a solid choice for smart home management, but it could have a more intuitive setup process.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ca"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Wink Hub 2 is an essential addition to my smart home setup. It simplifies the control of all my devices.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109cb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "I find Wink Hub 2 very useful, but it could have more third-party device support.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109cc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "Wink Hub 2 is a game-changer for managing my smart home. It's user-friendly and reliable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109cd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "Anker PowerCore 26800mAh is a powerful portable charger, but it's a bit heavy for long travels.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ce"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "I'm impressed with the Anker PowerCore's capacity. It keeps my devices charged for days.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109cf"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "Anker PowerCore is a reliable travel companion, but it could have faster charging technology.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ce"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "RAVPower 20000mAh Power Bank is compact and powerful. It's perfect for my on-the-go charging needs.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ce"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I find the RAVPower Power Bank useful, but it could have more charging ports.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ce"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "RAVPower Power Bank is a reliable and fast-charging solution. It keeps my devices powered during long trips.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cf"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Anker 7-Port USB 3.0 Data Hub is a must-have for expanding USB connectivity. It's versatile and reliable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cf"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "I like the Anker USB 3.0 Hub, but it could have a more compact design for portability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107cf"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "Anker USB Hub simplifies my device connectivity. It's a great addition to my workspace.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "Sabrent 4-Port USB 2.0 Hub is a handy tool for managing USB devices, but it could have faster data transfer speeds.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "I find the Sabrent USB 2.0 Hub very useful. The individual power switches are convenient for controlling connected devices.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "Sabrent USB Hub is a good choice, but it could have more ports for enhanced connectivity.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109d9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Havit Laptop Cooling Pad keeps my laptop cool during long gaming sessions. It's a great investment.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109da"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "I find the Havit Cooling Pad useful, but it could have a more ergonomic design for lap use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109db"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Havit Cooling Pad has improved my laptop's performance. It's quiet and efficient.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109dc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "Tree New Bee Cooling Pad is effective, but it could have better build quality.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109dd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "I'm happy with the Tree New Bee Cooling Pad. It keeps my laptop at a comfortable temperature.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109de"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "Tree New Bee Cooling Pad is a decent choice, but it could have more adjustable settings.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109df"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "iFixit Pro Tech Toolkit is a must-have for tech enthusiasts. It includes everything I need for repairs.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "I like the iFixit Toolkit, but it could have a more compact carrying case for portability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "iFixit Toolkit is a lifesaver for DIY repairs. It's well-organized and high-quality.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "ORIA Precision Screwdriver Kit is perfect for electronics repair. It offers a wide selection of bits.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "I find the ORIA Screwdriver Kit useful, but it could have more magnetized bits.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "ORIA Screwdriver Kit is a great addition to my toolkit. It's versatile and well-made.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Skycase Cable Management Sleeve is a handy solution for organizing cables, but it could be longer for larger setups.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "I love the Skycase Cable Management Sleeve. It keeps my workspace tidy and cables neatly organized.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "Skycase Cable Management Sleeve is useful, but it could have more color options for personalization.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Heldig Cable Clips are a lifesaver for cable management. They keep my workspace tidy and clutter-free.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109e9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I find Heldig Cable Clips useful, but they could be a bit more adhesive on some surfaces.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ea"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Heldig Cable Clips work like a charm. They're durable and simple to use.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109eb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Rocoren Aluminum Cell Phone Stand is a practical addition to my workspace. It's adjustable and stable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ec"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "I love the Rocoren Cell Phone Stand. It's versatile, well-built, and supports my phone perfectly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ed"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "Rocoren Cell Phone Stand is a good choice, but it could have more color options.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ee"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "UGREEN Cell Phone Stand Holder is a sturdy and reliable stand. It's great for video calls and media.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ef"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "I find the UGREEN Stand Holder very useful, but it could have a more compact design for portability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f0"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "UGREEN Stand Holder is a must-have on my desk. It's well-designed and accommodates my phone perfectly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f1"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "Anker Wireless Charger, PowerWave Pad is a reliable charger. It's fast and convenient for my devices.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f2"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I like the Anker PowerWave Pad, but it could have a longer charging cable for flexibility.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f3"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107d9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "Anker PowerWave Pad is a convenient wireless charger. It keeps my devices powered without any hassle.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f4"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107da"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 4,
+  "comment": "Yootech Wireless Charger is a practical charging pad, but it could have a more compact design for portability.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f5"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107da"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "I find the Yootech Wireless Charger very useful. It's simple, effective, and charges my phone quickly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f6"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107da"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "Yootech Wireless Charger is a great addition to my workspace, but it could have a wider charging area.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f7"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107db"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "Microsoft Windows 11 Home is a significant upgrade. It offers a sleek interface and new features.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f8"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107db"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "I'm impressed with Windows 11 Home. It's user-friendly and enhances my productivity.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109f9"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107db"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Windows 11 Home is a great OS, but it could have better compatibility with older software.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109fa"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107dc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Microsoft Windows 11 Pro is a game-changer for professionals. The security features are top-notch.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109fb"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107dc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "I find Windows 11 Pro very useful, but it could have more detailed tutorials for advanced features.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109fc"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107dc"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Windows 11 Pro is perfect for my work needs. It's stable and efficient for professional tasks.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109fd"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107dd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Norton 360 Deluxe is my go-to security suite. It offers comprehensive protection and VPN service.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109fe"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107dd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "I like Norton 360 Deluxe, but it could have a more intuitive interface for beginners.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece882109ff"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107dd"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "Norton 360 Deluxe covers all my security needs. It's reliable and user-friendly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a00"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107de"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "McAfee Total Protection is a solid antivirus solution. It offers strong privacy and identity protection.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a01"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107de"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "I find McAfee Total Protection very useful. It's effective in blocking threats and safeguarding my data.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a02"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107de"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "McAfee Total Protection is a good choice, but it could have more frequent updates.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a03"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107df"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "Microsoft Office 365 Personal is a great suite for personal use. It has all the essential applications.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a04"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107df"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "I'm satisfied with Office 365 Personal, but it could have more cloud storage included.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a05"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107df"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Office 365 Personal makes my work easier. It's user-friendly and compatible with various devices.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a06"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "Adobe Creative Cloud is an essential tool for creatives. It offers a wide range of professional software.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a07"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "I love Adobe Creative Cloud, but it could be more affordable for individual creators.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a08"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e0"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Adobe Creative Cloud is a game-changer. It enhances my creative projects and boosts productivity.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a09"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "The Witcher 3: Wild Hunt - Game of the Year Edition is a fantastic game, but it could have shorter loading times.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a0a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "I'm hooked on The Witcher 3. It's an epic adventure with a captivating story.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a0b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e1"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "The Witcher 3 is a must-play, but it could have a more intuitive inventory system.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a0c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "Sony PlayStation Plus Membership is a must for online gaming. It provides great value with free games and exclusive content.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a0d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "I find PlayStation Plus Membership useful, but it could have more discounts on the PlayStation Store.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a0e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e2"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "PlayStation Plus Membership is fantastic. The monthly games are a pleasant surprise.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a0f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "LeapFrog LeapPad Academy is a great learning tablet for kids. It's educational and fun.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a10"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "My kids love the LeapPad Academy. It keeps them engaged and helps with their learning.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a11"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e3"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "LeapFrog LeapPad Academy is a useful educational tool, but it could have more advanced content for older kids.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a12"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "VTech InnoTab MAX is a great tablet for kids. It's interactive and educational, making learning fun.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a13"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "I'm satisfied with VTech InnoTab MAX, but it could have more preloaded apps and games.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a14"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e4"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "VTech InnoTab MAX is a wonderful learning tablet for kids. It's user-friendly and encourages creativity.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a15"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 4,
+  "comment": "Puro Sound Labs PuroBasic headphones are perfect for kids. They offer safe and high-quality audio.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a16"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "My kids love PuroBasic headphones. The volume limiting feature gives me peace of mind.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a17"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e5"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "PuroBasic headphones are a good choice, but they could have more padding for added comfort.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a18"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 5,
+  "comment": "LilGadgets Connect+ PRO headphones are excellent for kids. The sharing feature is a hit in our household.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a19"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 4,
+  "comment": "I'm happy with LilGadgets Connect+ PRO, but the cable could be more durable.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a1a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e6"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 5,
+  "comment": "LilGadgets Connect+ PRO headphones are a lifesaver on long trips. The sound quality is impressive.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a1b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "Anki Cozmo is an amazing educational robot. It's engaging and teaches kids programming concepts.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a1c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "Anki Cozmo is a great learning tool, but it could have more advanced coding challenges.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a1d"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e7"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 5,
+  "comment": "My kids adore Anki Cozmo. It sparks their curiosity and encourages problem-solving.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a1e"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "WowWee Robosapien X is a fun robot toy, but it could have a more extensive range of movements.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a1f"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "I'm impressed with WowWee Robosapien X. It's interactive and keeps my kids entertained.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a20"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e8"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "WowWee Robosapien X is a good robot toy, but it could have clearer voice commands.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a21"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 5,
+  "comment": "Osmo Genius Starter Kit is a game-changer for kids' learning. It combines fun and education seamlessly.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a22"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 4,
+  "comment": "I like the Osmo Genius Starter Kit, but it could have more diverse games and activities.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a23"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107e9"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ee"
+  },
+  "rating": 5,
+  "comment": "Osmo Genius Starter Kit is an innovative learning tool. It promotes critical thinking and creativity.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a24"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ea"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f0"
+  },
+  "rating": 5,
+  "comment": "LeapFrog LeapStart 3D is an excellent learning system for kids. It makes education interactive and fun.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a25"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ea"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f2"
+  },
+  "rating": 4,
+  "comment": "My child enjoys the LeapFrog LeapStart 3D, but it could have more advanced content for older kids.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a26"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ea"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 5,
+  "comment": "LeapFrog LeapStart 3D has transformed how my kids learn. It's engaging and educational.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a27"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107eb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f5"
+  },
+  "rating": 4,
+  "comment": "VTech KidiZoom Smartwatch DX2 is a fun gadget for kids, but it could have more built-in games.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a28"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107eb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 5,
+  "comment": "My child loves the VTech KidiZoom Smartwatch DX2. It's a great way to introduce them to technology.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a29"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107eb"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f6"
+  },
+  "rating": 4,
+  "comment": "VTech KidiZoom Smartwatch DX2 is a good option, but it could have longer battery life.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a2a"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ec"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f3"
+  },
+  "rating": 5,
+  "comment": "GizmoPal 2 by LG is a fantastic GPS smartwatch for kids. It offers peace of mind to parents.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a2b"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ec"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f1"
+  },
+  "rating": 4,
+  "comment": "I like the GizmoPal 2, but it could have a more durable design to withstand active kids.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556e8aeb47d6ece88210a2c"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece882107ec"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107ef"
+  },
+  "rating": 5,
+  "comment": "GizmoPal 2 is a reliable kid's GPS smartwatch. It's easy to use and ensures kids' safety.",
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655738590346c9e0649a0f81"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece88210773"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f7"
+  },
+  "rating": 4,
+  "comment": "I accidentally dropped my phone, and the screen protector saved it from shattering. Great product!",
+  "created_at": {
+    "$date": "2023-11-17T09:54:33.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655743deeb2c4edb6acc5223"
+  },
+  "product_id": {
+    "$oid": "6556d68eb47d6ece8821076d"
+  },
+  "user_id": {
+    "$oid": "6556d7d9b47d6ece882107f4"
+  },
+  "rating": 4,
+  "comment": "The performance of the iPhone 13 Pro is top-notch. Fast and smooth.",
+  "created_at": {
+    "$date": "2023-11-17T10:43:42.971Z"
+  },
+  "__v": 0
+}]

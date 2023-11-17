@@ -1,0 +1,4649 @@
+[{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821076d"
+  },
+  "name": "iPhone 13 Pro - 128GB, Graphite",
+  "brand": "Apple",
+  "price": 39949.99,
+  "discount": 0,
+  "description": "Experience the power of the A15 Bionic chip and the stunning Pro camera system on the iPhone 13 Pro. With 128GB of storage, you'll capture and store memories in style.",
+  "features": [
+    "A15 Bionic chip",
+    "Pro camera system with 12MP wide, 12MP ultrawide, and 12MP telephoto cameras",
+    "Super Retina XDR display with ProMotion",
+    "Ceramic Shield front cover",
+    "All-new battery design for up to 1.5 hours longer battery life"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "iPhones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/001-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/001-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/001-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821076e"
+  },
+  "name": "iPhone SE (2nd Generation) - 64GB, White",
+  "brand": "Apple",
+  "price": 7459.99,
+  "discount": 0,
+  "description": "The iPhone SE offers the power of an A13 Bionic chip in a compact design. With 64GB of storage, this is a budget-friendly iPhone that doesn't compromise on performance.",
+  "features": [
+    "A13 Bionic chip",
+    "4.7-inch Retina HD display",
+    "12MP rear camera",
+    "7MP front camera",
+    "Touch ID"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "iPhones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/002-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/002-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/002-02.jpg"
+  ],
+  "rating": {
+    "rate": 4,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821076f"
+  },
+  "name": "Samsung Galaxy S21 Ultra 5G - 256GB, Phantom Black",
+  "brand": "Samsung",
+  "price": 23949.99,
+  "discount": 0,
+  "description": "Experience the power of the Samsung Galaxy S21 Ultra 5G with a massive 256GB of storage. Capture stunning photos and enjoy a super-smooth display.",
+  "features": [
+    "Snapdragon 888 chip",
+    "6.8-inch Dynamic AMOLED 2X display",
+    "108MP rear camera",
+    "12MP front camera",
+    "5G connectivity"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Android Phones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/003-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/003-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/003-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210770"
+  },
+  "name": "Google Pixel 5 - 128GB, Just Black",
+  "brand": "Google",
+  "price": 12999.99,
+  "discount": 0,
+  "description": "The Google Pixel 5 offers a pure Android experience with a powerful camera, 128GB of storage, and 5G capability. Capture life's moments in stunning detail.",
+  "features": [
+    "Qualcomm Snapdragon 765G chip",
+    "6.0-inch OLED display",
+    "12.2MP rear camera with wide and ultrawide lenses",
+    "8MP front camera",
+    "5G connectivity"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Android Phones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/004-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/004-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/004-02.jpg"
+  ],
+  "rating": {
+    "rate": 4,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210771"
+  },
+  "name": "Spigen Tough Armor Case for iPhone 13 - Black",
+  "brand": "Spigen",
+  "price": 1399.99,
+  "discount": 0,
+  "description": "Protect your iPhone 13 with the Spigen Tough Armor Case in Black. This rugged case offers excellent drop protection and a stylish design.",
+  "features": [
+    "Military-grade drop protection",
+    "Dual-layer construction with shock-absorbing foam and hard polycarbonate shell",
+    "Raised lips protect the screen and camera lens",
+    "Tactile buttons for easy access and response",
+    "Precise cutouts for all ports and speakers"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Phone Cases"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/005-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/005-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/005-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210772"
+  },
+  "name": "OtterBox Defender Series Case for Samsung Galaxy S21 Ultra - Black",
+  "brand": "OtterBox",
+  "price": 1679.99,
+  "discount": 0,
+  "description": "The OtterBox Defender Series Case is built to protect your Samsung Galaxy S21 Ultra from drops, shocks, and scratches. It comes in a sleek black color.",
+  "features": [
+    "Triple-layer protection with polycarbonate shell, silicone slipcover, and built-in screen protector",
+    "Raised edges protect the screen and camera lens",
+    "Port covers keep dust and dirt out",
+    "Belt clip and holster for hands-free carrying",
+    "Sleek black design"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Phone Cases"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/006-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/006-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/006-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210773"
+  },
+  "name": "amFilm Glass Screen Protector for iPhone 12 Pro Max",
+  "brand": "amFilm",
+  "price": 1199.99,
+  "discount": 0,
+  "description": "Protect your iPhone 12 Pro Max's screen with the amFilm Glass Screen Protector. This high-quality tempered glass offers excellent scratch and impact protection.",
+  "features": [
+    "9H hardness for superior scratch resistance",
+    "Oleophobic coating to repel fingerprints and smudges",
+    "Easy installation with no bubbles",
+    "High-quality tempered glass",
+    "Impact protection"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Screen Protectors"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/007-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/007-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/007-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210774"
+  },
+  "name": "ZAGG InvisibleShield Glass Elite+ Screen Protector for Samsung Galaxy S21",
+  "brand": "ZAGG",
+  "price": 1989.99,
+  "discount": 0,
+  "description": "Safeguard your Samsung Galaxy S21's display with the ZAGG InvisibleShield Glass Elite+ Screen Protector. It's designed for maximum clarity and protection.",
+  "features": [
+    "Ion exchange technology for superior scratch resistance",
+    "Oleophobic coating to repel fingerprints and smudges",
+    "Easy installation with no bubbles",
+    "Maximum clarity",
+    "Screen protection"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Screen Protectors"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/008-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/008-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/008-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210775"
+  },
+  "name": "Anker PowerPort USB Wall Charger with Quick Charge 3.0",
+  "brand": "Anker",
+  "price": 1299.99,
+  "discount": 0,
+  "description": "Charge your devices quickly and efficiently with the Anker PowerPort USB Wall Charger featuring Quick Charge 3.0 technology. It's compact and travel-friendly.",
+  "features": [
+    "Quick Charge 3.0 technology",
+    "Compact and travel-friendly design",
+    "Multi-device charging",
+    "Universal compatibility",
+    "Surge protection"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Chargers and Cables"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/009-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/009-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/009-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210776"
+  },
+  "name": "AmazonBasics USB-A to Lightning Cable - 6 Feet",
+  "brand": "AmazonBasics",
+  "price": 599.99,
+  "discount": 0,
+  "description": "Keep your Apple devices charged and synced with the AmazonBasics USB-A to Lightning Cable. The 6-foot length provides flexibility and convenience.",
+  "features": [
+    "USB-A to Lightning cable",
+    "6-foot length for flexibility",
+    "Fast charging and data syncing",
+    "Durable connectors",
+    "Compatible with Apple devices"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Chargers and Cables"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/010-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/010-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/010-02.jpg"
+  ],
+  "rating": {
+    "rate": 4,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210777"
+  },
+  "name": "iOttie Easy One Touch 4 Dashboard & Windshield Car Phone Mount",
+  "brand": "iOttie",
+  "price": 1399.99,
+  "discount": 0,
+  "description": "Secure your phone in your car with the iOttie Easy One Touch 4. This versatile mount attaches to both the dashboard and windshield, providing a secure grip for your device.",
+  "features": [
+    "Versatile dashboard and windshield mount",
+    "One-touch phone attachment and release",
+    "Adjustable viewing angles",
+    "Secure grip for your device",
+    "Durable construction"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Phone Holders"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/011-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/011-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/011-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210778"
+  },
+  "name": "Lamicall Cell Phone Stand, Dock, and Cradle",
+  "brand": "Lamicall",
+  "price": 1489.99,
+  "discount": 0,
+  "description": "Keep your phone at the perfect viewing angle with the Lamicall Cell Phone Stand. This sturdy stand is ideal for both desktop and bedside use.",
+  "features": [
+    "Sturdy and versatile stand",
+    "Perfect viewing angle for your phone",
+    "Suitable for desktop and bedside use",
+    "Non-slip design",
+    "Universal compatibility"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Phone Holders"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/012-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/012-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/012-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210779"
+  },
+  "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+  "brand": "Sony",
+  "price": 19999.99,
+  "discount": 0,
+  "description": "Experience premium sound quality and industry-leading noise cancellation with the Sony WH-1000XM4. These wireless headphones offer exceptional comfort and audio performance.",
+  "features": [
+    "Industry-leading noise cancellation",
+    "Premium sound quality",
+    "Wireless connectivity",
+    "Exceptional comfort for extended wear",
+    "Long-lasting battery life"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Bluetooth Headsets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/013-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/013-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/013-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821077a"
+  },
+  "name": "Jabra Elite 75t True Wireless Earbuds",
+  "brand": "Jabra",
+  "price": 9999.99,
+  "discount": 0,
+  "description": "Enjoy true wireless freedom with the Jabra Elite 75t Earbuds. These earbuds deliver exceptional sound quality, comfort, and a long-lasting battery for all-day use.",
+  "features": [
+    "True wireless design for ultimate freedom",
+    "Exceptional sound quality",
+    "Comfortable fit for extended wear",
+    "Long-lasting battery life for all-day use",
+    "Built-in voice assistant support"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Bluetooth Headsets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/014-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/014-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/014-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821077b"
+  },
+  "name": "Dell XPS 13 9310 13.4\" Laptop - Intel Core i7, 16GB RAM, 512GB SSD",
+  "brand": "Dell",
+  "price": 112449.99,
+  "discount": 0,
+  "description": "The Dell XPS 13 9310 offers powerful performance with an Intel Core i7 processor, 16GB of RAM, and a speedy 512GB SSD. Its 13.4-inch InfinityEdge display provides a stunning viewing experience.",
+  "features": [
+    "Intel Core i7 processor for powerful performance",
+    "16GB RAM for smooth multitasking",
+    "Fast 512GB SSD for speedy storage",
+    "13.4-inch InfinityEdge display for stunning visuals",
+    "Sleek and portable design"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Laptops"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/015-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/015-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/015-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821077c"
+  },
+  "name": "MacBook Air (M2, 2022) - 13-inch Retina Display, 16GB RAM, 512GB SSD",
+  "brand": "Apple",
+  "price": 52749.99,
+  "discount": 0,
+  "description": "Experience the latest MacBook Air with the powerful M2 chip, a brilliant 13-inch Retina display, 16GB of RAM, and a spacious 512GB SSD. It's a perfect blend of power and portability.",
+  "features": [
+    "Powerful M2 chip for high performance",
+    "Brilliant 13-inch Retina display",
+    "16GB of RAM for smooth multitasking",
+    "Spacious 512GB SSD for storage",
+    "Thin and lightweight for portability"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Laptops"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/016-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/016-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/016-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821077d"
+  },
+  "name": "Dell XPS 8940 Desktop - Intel Core i9, 32GB RAM, 1TB SSD",
+  "brand": "Dell",
+  "price": 129989.99,
+  "discount": 0,
+  "description": "The Dell XPS 8940 Desktop is a powerhouse with an Intel Core i9 processor, 32GB of RAM, and a lightning-fast 1TB SSD. It's built for high-performance computing and multitasking.",
+  "features": [
+    "High-performance Intel Core i9 processor",
+    "32GB of RAM for seamless multitasking",
+    "Lightning-fast 1TB SSD storage",
+    "Powerful graphics capabilities",
+    "Expansion options for customization"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Desktop Computers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/017-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/017-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/017-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821077e"
+  },
+  "name": "HP Omen 30L Gaming Desktop - AMD Ryzen 9, 32GB RAM, 2TB HDD + 512GB SSD",
+  "brand": "HP",
+  "price": 119989.99,
+  "discount": 0,
+  "description": "The HP Omen 30L Gaming Desktop, powered by an AMD Ryzen 9 processor, 32GB of RAM, and a combination of a 2TB HDD and a 512GB SSD, is built for gamers and performance enthusiasts.",
+  "features": [
+    "High-performance AMD Ryzen 9 processor",
+    "32GB of RAM for smooth gaming and multitasking",
+    "2TB HDD + 512GB SSD for storage and speed",
+    "NVIDIA GeForce graphics for gaming excellence",
+    "Customizable RGB lighting for a stylish look"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Desktop Computers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/018-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/018-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/018-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821077f"
+  },
+  "name": "Dell Ultrasharp U2720Q 27-Inch 4K Monitor",
+  "brand": "Dell",
+  "price": 34989.99,
+  "discount": 0,
+  "description": "Experience stunning 4K visuals with the Dell Ultrasharp U2720Q. This 27-inch monitor offers precise color accuracy and a borderless design for a sleek workspace.",
+  "features": [
+    "27-inch 4K display for stunning visuals",
+    "Precise color accuracy for professional work",
+    "Borderless design for a sleek workspace",
+    "Adjustable stand for ergonomic viewing",
+    "Multiple connectivity options"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Computer Monitors"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/019-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/019-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/019-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210780"
+  },
+  "name": "ASUS ROG Swift PG279QZ 27-inch Gaming Monitor",
+  "brand": "ASUS",
+  "price": 39989.99,
+  "discount": 0,
+  "description": "Elevate your gaming experience with the ASUS ROG Swift PG279QZ. This 27-inch gaming monitor features a 165Hz refresh rate and G-Sync technology for smooth gameplay.",
+  "features": [
+    "27-inch gaming monitor for immersive gameplay",
+    "165Hz refresh rate for smooth and responsive gaming",
+    "NVIDIA G-Sync technology eliminates screen tearing",
+    "WQHD resolution for crisp visuals",
+    "ASUS Aura RGB lighting for a customized look"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Computer Monitors"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/020-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/020-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/020-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210781"
+  },
+  "name": "Logitech MX Master 3 Wireless Mouse and MX Keys Advanced Keyboard Combo",
+  "brand": "Logitech",
+  "price": 4299.99,
+  "discount": 0,
+  "description": "Upgrade your desktop setup with the Logitech MX Master 3 mouse and MX Keys keyboard combo. Experience precision and comfort with these advanced peripherals.",
+  "features": [
+    "Logitech MX Master 3 mouse for precise control",
+    "MX Keys advanced keyboard for comfortable typing",
+    "Flow-enabled for multi-computer control",
+    "Backlit keys for typing in low-light conditions",
+    "Customizable function keys for productivity"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Keyboards and Mice"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/021-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/021-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/021-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210782"
+  },
+  "name": "Razer BlackWidow Elite Mechanical Gaming Keyboard and DeathAdder Elite Gaming Mouse Combo",
+  "brand": "Razer",
+  "price": 8619.99,
+  "discount": 0,
+  "description": "Get the competitive edge with the Razer BlackWidow Elite keyboard and DeathAdder Elite mouse combo. Designed for gaming, these peripherals offer precision and style.",
+  "features": [
+    "Razer BlackWidow Elite keyboard for tactile feedback",
+    "DeathAdder Elite gaming mouse for precision",
+    "Customizable RGB lighting for a stylish look",
+    "Mechanical key switches for fast response",
+    "Ergonomic design for long gaming sessions"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Keyboards and Mice"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/022-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/022-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/022-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210783"
+  },
+  "name": "Samsonite Classic Multi Gusset Toploader Briefcase Bag",
+  "brand": "Samsonite",
+  "price": 9499.99,
+  "discount": 0,
+  "description": "Carry your laptop and essentials in style with the Samsonite Classic Multi Gusset Toploader Briefcase Bag. It offers multiple compartments and sturdy construction for maximum protection.",
+  "features": [
+    "Multi-gusset design for organizing essentials",
+    "Durable construction for long-lasting use",
+    "Padded laptop compartment for protection",
+    "Adjustable, removable shoulder strap",
+    "Smart sleeve for easy attachment to luggage"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Laptop Bags and Cases"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/023-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/023-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/023-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210784"
+  },
+  "name": "AmazonBasics 15.6-Inch Laptop Sleeve Case",
+  "brand": "AmazonBasics",
+  "price": 1159.99,
+  "discount": 0,
+  "description": "Protect your laptop with the AmazonBasics 15.6-inch Laptop Sleeve Case. This slim and lightweight sleeve offers basic protection and is ideal for on-the-go use.",
+  "features": [
+    "Slim and lightweight design for portability",
+    "Fits most 15.6-inch laptops",
+    "Durable neoprene construction for protection",
+    "Top-loading zipper for easy access",
+    "Front storage pocket for accessories"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Laptop Bags and Cases"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/024-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/024-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/024-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210785"
+  },
+  "name": "Western Digital My Passport 4TB Portable External Hard Drive",
+  "brand": "Western Digital",
+  "price": 6939.99,
+  "discount": 0,
+  "description": "Store your data securely with the Western Digital My Passport 4TB External Hard Drive. This portable drive offers ample storage and data protection features.",
+  "features": [
+    "4TB storage capacity for ample data storage",
+    "USB 3.0 interface for high-speed data transfer",
+    "Password protection and hardware encryption",
+    "Auto backup and data recovery options",
+    "Compact and portable design for on-the-go use"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "External Hard Drives"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/025-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/025-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/025-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210786"
+  },
+  "name": "Seagate Expansion Desktop 10TB External Hard Drive",
+  "brand": "Seagate",
+  "price": 16999.99,
+  "discount": 0,
+  "description": "Expand your storage with the Seagate Expansion Desktop 10TB External Hard Drive. It's ideal for backing up large amounts of data and expanding your computer's storage capacity.",
+  "features": [
+    "10TB storage capacity",
+    "USB 3.0 interface",
+    "Plug-and-play operation",
+    "Compatible with Windows and Mac",
+    "One-year warranty"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "External Hard Drives"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/026-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/026-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/026-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210787"
+  },
+  "name": "SanDisk Ultra CZ48 64GB USB 3.0 Flash Drive",
+  "brand": "SanDisk",
+  "price": 1099.99,
+  "discount": 0,
+  "description": "Transfer files quickly with the SanDisk Ultra CZ48 64GB USB 3.0 Flash Drive. It offers ample storage for your data and high-speed data transfer with USB 3.0.",
+  "features": [
+    "64GB storage capacity",
+    "USB 3.0 interface",
+    "Read speeds up to 130MB/s",
+    "Write speeds up to 40MB/s",
+    "Compatible with Windows, Mac, and Linux"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "USB Flash Drives"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/027-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/027-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/027-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210788"
+  },
+  "name": "Kingston Digital 32GB DataTraveler SE9 USB Flash Drive",
+  "brand": "Kingston",
+  "price": 399.99,
+  "discount": 0,
+  "description": "Store and transfer data with the compact Kingston Digital 32GB DataTraveler SE9 USB Flash Drive. Its stylish metal casing is both durable and attractive.",
+  "features": [
+    "32GB storage capacity",
+    "USB 3.0 interface",
+    "Compact and durable metal casing",
+    "Plug-and-play operation",
+    "Compatible with Windows and Mac"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "USB Flash Drives"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/028-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/028-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/028-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210789"
+  },
+  "name": "Bose Noise Cancelling Headphones 700 - Arctic White",
+  "brand": "Bose",
+  "price": 22999.99,
+  "discount": 0,
+  "description": "Experience premium audio and noise cancellation with the Bose Noise Cancelling Headphones 700. They offer superior sound quality and a sleek Arctic White design.",
+  "features": [
+    "Active noise cancellation",
+    "Adaptive EQ for personalized sound",
+    "Touch controls for easy use",
+    "Long-lasting battery life",
+    "Comfortable and stylish design"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Over-Ear Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/029-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/029-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/029-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821078a"
+  },
+  "name": "Sony WH-1000XM4 Wireless Noise-Canceling Over-Ear Headphones",
+  "brand": "Sony",
+  "price": 19999.99,
+  "discount": 0,
+  "description": "Immerse yourself in music with the Sony WH-1000XM4 over-ear headphones. These wireless headphones offer exceptional noise cancellation and high-resolution audio.",
+  "features": [
+    "Exceptional noise cancellation",
+    "High-resolution audio",
+    "Adaptive sound control",
+    "Long battery life",
+    "Comfortable and stylish design"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Over-Ear Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/030-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/030-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/030-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821078b"
+  },
+  "name": "Apple AirPods Pro with Active Noise Cancellation",
+  "brand": "Apple",
+  "price": 5949.99,
+  "discount": 0,
+  "description": "Enjoy a premium audio experience with Apple AirPods Pro featuring active noise cancellation. These in-ear earbuds provide crystal-clear sound and a comfortable fit.",
+  "features": [
+    "Active noise cancellation",
+    "Transparency mode",
+    "Adaptive EQ",
+    "Spatial audio",
+    "Long battery life"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "In-Ear Earbuds"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/031-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/031-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/031-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821078c"
+  },
+  "name": "Sony WF-1000XM4 True Wireless Noise-Canceling Earbuds",
+  "brand": "Sony",
+  "price": 7999.99,
+  "discount": 0,
+  "description": "Experience true wireless freedom and top-notch noise cancellation with the Sony WF-1000XM4 earbuds. These in-ear earbuds deliver high-quality audio in a compact package.",
+  "features": [
+    "Industry-leading noise cancellation",
+    "Adaptive sound control",
+    "High-quality audio",
+    "Long battery life",
+    "Comfortable and stylish design"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "In-Ear Earbuds"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/032-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/032-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/032-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821078d"
+  },
+  "name": "JBL Charge 4 Portable Waterproof Wireless Bluetooth Speaker",
+  "brand": "JBL",
+  "price": 5199.99,
+  "discount": 0,
+  "description": "Take your music anywhere with the JBL Charge 4 Portable Wireless Bluetooth Speaker. It's waterproof and offers powerful sound with a built-in power bank for your devices.",
+  "features": [
+    "Waterproof and durable",
+    "Portable and lightweight",
+    "Wireless Bluetooth connectivity",
+    "Powerful sound with JBL Bass Radiator",
+    "Built-in power bank to charge your devices"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Wireless Speakers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/033-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/033-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/033-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821078e"
+  },
+  "name": "Bose SoundLink Revolve Portable Bluetooth 360 Speaker",
+  "brand": "Bose",
+  "price": 9499.99,
+  "discount": 0,
+  "description": "Immerse yourself in 360-degree sound with the Bose SoundLink Revolve Speaker. It's portable and delivers clear, deep audio in a sleek, modern design.",
+  "features": [
+    "360-degree sound",
+    "Portable and lightweight",
+    "Wireless Bluetooth connectivity",
+    "Clear and deep audio",
+    "Sleek and modern design"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Wireless Speakers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/034-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/034-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/034-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821078f"
+  },
+  "name": "Sennheiser HD 450BT Wireless Over-Ear Headphones",
+  "brand": "Sennheiser",
+  "price": 7299.99,
+  "discount": 0,
+  "description": "Experience exceptional sound quality with the Sennheiser HD 450BT wireless over-ear headphones. They offer great comfort and a long-lasting battery for extended listening.",
+  "features": [
+    "Exceptional sound quality with Sennheiser Active Noise Cancellation",
+    "Great comfort with soft ear cups and adjustable headband",
+    "Long-lasting battery life of up to 30 hours",
+    "Wireless Bluetooth connectivity for easy pairing with devices",
+    "Foldable design for portability"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Bluetooth Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/035-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/035-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/035-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210790"
+  },
+  "name": "Sony WH-XB900N Extra Bass Wireless Noise-Canceling Headphones",
+  "brand": "Sony",
+  "price": 8999.99,
+  "discount": 0,
+  "description": "Enjoy powerful bass and noise cancellation with the Sony WH-XB900N wireless headphones. They're perfect for music enthusiasts who crave deep, rich audio.",
+  "features": [
+    "Extra Bass technology for powerful, deep bass",
+    "Active noise cancellation to block out distractions",
+    "Wireless Bluetooth connectivity for easy pairing with devices",
+    "Up to 30 hours of battery life for extended listening",
+    "Comfortable and stylish design"
+  ],
+  "category": [
+    "Audio and Headphones",
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Bluetooth Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/036-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/036-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/036-02.jpg"
+  ],
+  "rating": {
+    "rate": 3.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210791"
+  },
+  "name": "Audio-Technica AT2020 Cardioid Condenser Studio Microphone",
+  "brand": "Audio-Technica",
+  "price": 5499.99,
+  "discount": 0,
+  "description": "Capture crystal-clear audio with the Audio-Technica AT2020 studio microphone. This cardioid condenser mic is ideal for recording vocals, instruments, and podcasts.",
+  "features": [
+    "Wide frequency response for capturing all the nuances of your sound",
+    "Cardioid polar pattern to reduce background noise",
+    "High SPL handling capability for recording loud sources without distortion",
+    "Durable construction for long-lasting use",
+    "Includes stand mount and carrying case"
+  ],
+  "category": [
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Microphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/037-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/037-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/037-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210792"
+  },
+  "name": "Shure SM58-LC Cardioid Dynamic Vocal Microphone",
+  "brand": "Shure",
+  "price": 6999.99,
+  "discount": 0,
+  "description": "For legendary live performance and studio recording, the Shure SM58-LC vocal microphone is the industry standard. It offers exceptional clarity and durability.",
+  "features": [
+    "Exceptional vocal clarity",
+    "Cardioid pickup pattern",
+    "Durable construction for stage use",
+    "Effective noise isolation",
+    "Industry-standard for live performance"
+  ],
+  "category": [
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Microphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/038-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/038-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/038-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210793"
+  },
+  "name": "Bose QuietComfort 35 II Wireless Noise-Canceling Headphones",
+  "brand": "Bose",
+  "price": 12989.99,
+  "discount": 0,
+  "description": "Enjoy peace and quiet with the Bose QuietComfort 35 II headphones. These wireless noise-canceling headphones provide exceptional audio quality and comfort for long listening sessions.",
+  "features": [
+    "Industry-leading noise cancellation",
+    "Premium audio performance",
+    "Wireless Bluetooth connectivity",
+    "Up to 20 hours of battery life",
+    "Comfortable over-ear design"
+  ],
+  "category": [
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Noise-Canceling Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/039-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/039-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/039-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210794"
+  },
+  "name": "Sennheiser HD 660 S Audiophile Open-Back Headphones",
+  "brand": "Sennheiser",
+  "price": 29989.99,
+  "discount": 0,
+  "description": "Immerse yourself in high-quality audio with the Sennheiser HD 660 S open-back headphones. These audiophile headphones offer exceptional sound clarity and comfort for extended listening sessions.",
+  "features": [
+    "Audiophile-grade open-back design",
+    "Exceptional sound clarity and accuracy",
+    "Comfortable and lightweight",
+    "Detachable cables with balanced connectors",
+    "Replaceable ear cushions for long-term use"
+  ],
+  "category": [
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Noise-Canceling Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/040-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/040-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/040-02.jpg"
+  ],
+  "rating": {
+    "rate": 4,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210795"
+  },
+  "name": "Avantree Universal Wooden & Aluminum Headphone Stand",
+  "brand": "Avantree",
+  "price": 1699.99,
+  "discount": 0,
+  "description": "Display your headphones in style with the Avantree Wooden & Aluminum Headphone Stand. This stand is compatible with various headphone sizes and adds a touch of elegance to your setup.",
+  "features": [
+    "Universal compatibility for various headphone sizes",
+    "Elegant wooden and aluminum construction",
+    "Keeps headphones organized and easily accessible",
+    "Stable and sturdy design",
+    "Anti-slip base to prevent movement"
+  ],
+  "category": [
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Headphone Stands"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/041-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/041-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/041-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210796"
+  },
+  "name": "Brainwavz Hengja - The Headphone Desk Hanger",
+  "brand": "Brainwavz",
+  "price": 839.99,
+  "discount": 0,
+  "description": "Save desk space and keep your headphones organized with the Brainwavz Hengja Headphone Desk Hanger. It's a convenient solution for hanging and displaying your headphones.",
+  "features": [
+    "Space-saving headphone storage solution",
+    "Desk hanger design for easy access",
+    "Durable construction to support various headphone sizes",
+    "Protects headphones from damage and keeps them within reach",
+    "Easy installation on desks and tables"
+  ],
+  "category": [
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Headphone Stands"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/042-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/042-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/042-02.jpg"
+  ],
+  "rating": {
+    "rate": 4,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210797"
+  },
+  "name": "Sony PlayStation 5 Console",
+  "brand": "Sony",
+  "price": 27989.99,
+  "discount": 0,
+  "description": "Experience next-gen gaming with the Sony PlayStation 5 console. It offers cutting-edge graphics, fast load times, and a vast library of games for an immersive gaming experience.",
+  "features": [
+    "Next-gen gaming console for cutting-edge graphics",
+    "Fast load times for minimal waiting",
+    "Extensive library of games for various genres",
+    "Immersive gaming experience with haptic feedback and 3D audio",
+    "Supports 4K gaming and entertainment"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "Gaming Consoles"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/043-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/043-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/043-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210798"
+  },
+  "name": "Microsoft Xbox Series X Console",
+  "brand": "Microsoft",
+  "price": 35999.99,
+  "discount": 0,
+  "description": "Get ready for high-performance gaming with the Microsoft Xbox Series X console. It offers incredible graphics, fast loading, and a rich gaming ecosystem for an unmatched gaming experience.",
+  "features": [
+    "High-performance gaming console with incredible graphics",
+    "Fast loading for minimal wait times",
+    "Extensive gaming ecosystem with a wide range of titles",
+    "Supports 4K gaming and entertainment",
+    "Backward compatibility with previous Xbox games"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "Gaming Consoles"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/044-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/044-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/044-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece88210799"
+  },
+  "name": "ASUS ROG Zephyrus G14 Gaming Laptop - AMD Ryzen 9, RTX 3060, 16GB RAM, 1TB SSD",
+  "brand": "ASUS",
+  "price": 74999.99,
+  "discount": 0,
+  "description": "Elevate your gaming with the ASUS ROG Zephyrus G14 gaming laptop. It's powered by an AMD Ryzen 9 processor, RTX 3060 GPU, and features a speedy 1TB SSD for top-tier performance.",
+  "features": [
+    "High-performance gaming laptop with AMD Ryzen 9 processor",
+    "Dedicated RTX 3060 GPU for excellent gaming graphics",
+    "16GB RAM for smooth multitasking",
+    "1TB SSD for fast storage and load times",
+    "14-inch display with high refresh rate for responsive gaming"
+  ],
+  "category": [
+    "Gaming Gear",
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Gaming Laptops"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/045-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/045-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/045-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821079a"
+  },
+  "name": "MSI GS66 Stealth Gaming Laptop - Intel i7, RTX 3080, 32GB RAM, 1TB SSD",
+  "brand": "MSI",
+  "price": 199999.99,
+  "discount": 0,
+  "description": "Unleash your gaming potential with the MSI GS66 Stealth gaming laptop. Equipped with an Intel Core i7 CPU, RTX 3080 graphics, and a spacious 1TB SSD, it's a powerhouse for gaming and productivity.",
+  "features": [
+    "High-performance gaming laptop with Intel Core i7 processor",
+    "Dedicated RTX 3080 GPU for top-tier gaming graphics",
+    "32GB RAM for smooth multitasking and gaming performance",
+    "1TB SSD for fast storage and load times",
+    "Sleek design with a 15.6-inch high-refresh-rate display"
+  ],
+  "category": [
+    "Gaming Gear",
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Gaming Laptops"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/046-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/046-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/046-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821079b"
+  },
+  "name": "Corsair K95 RGB Platinum XT Mechanical Gaming Keyboard and Dark Core RGB/SE Gaming Mouse Combo",
+  "brand": "Corsair",
+  "price": 17999.99,
+  "discount": 0,
+  "description": "Elevate your gaming experience with the Corsair K95 RGB Platinum XT mechanical gaming keyboard and Dark Core RGB/SE gaming mouse combo. These premium gaming peripherals offer customizable RGB lighting and advanced features.",
+  "features": [
+    "Mechanical gaming keyboard with Cherry MX switches for tactile feedback",
+    "Gaming mouse with customizable RGB lighting and high-precision sensor",
+    "Macro programming and dedicated macro keys on the keyboard",
+    "Comfortable wrist rest for extended gaming sessions",
+    "Customizable RGB lighting for both keyboard and mouse"
+  ],
+  "category": [
+    "Gaming Gear",
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Gaming Mice and Keyboards"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/047-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/047-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/047-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821079c"
+  },
+  "name": "Logitech G Pro X Mechanical Gaming Keyboard and G Pro Wireless Gaming Mouse Combo",
+  "brand": "Logitech",
+  "price": 11999.99,
+  "discount": 0,
+  "description": "Equip yourself with the Logitech G Pro X keyboard and G Pro wireless mouse combo for professional-level gaming. These peripherals offer customizable switches and high-precision tracking.",
+  "features": [
+    "Customizable mechanical switches for the keyboard",
+    "High-precision tracking on the wireless mouse",
+    "Professional-grade gaming performance",
+    "RGB lighting for keyboard and mouse",
+    "Durable and reliable design"
+  ],
+  "category": [
+    "Gaming Gear",
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Gaming Mice and Keyboards"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/048-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/048-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/048-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821079d"
+  },
+  "name": "Xbox Wireless Controller - Carbon Black",
+  "brand": "Microsoft",
+  "price": 2999.99,
+  "discount": 0,
+  "description": "Enhance your gaming experience with the Xbox Wireless Controller in Carbon Black. It offers responsive controls, textured grips, and compatibility with Xbox consoles and Windows PCs.",
+  "features": [
+    "Responsive controls for precise gaming",
+    "Textured grips for comfortable and non-slip handling",
+    "Compatible with Xbox consoles and Windows PCs",
+    "Wireless connectivity for a tangle-free gaming experience",
+    "Customizable buttons and triggers for personalized gameplay"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "Controllers",
+    "Gaming Consoles"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/049-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/049-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/049-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821079e"
+  },
+  "name": "DualShock 4 Wireless Controller for PlayStation 4 - Jet Black",
+  "brand": "Sony",
+  "price": 2499.99,
+  "discount": 0,
+  "description": "Take control of your gaming with the DualShock 4 Wireless Controller in Jet Black. It's designed for the PlayStation 4 and offers precision controls and a comfortable grip.",
+  "features": [
+    "Designed for PlayStation 4 gaming",
+    "Precise and responsive controls",
+    "Comfortable grip for extended gaming sessions",
+    "Built-in touchpad for additional gameplay options",
+    "Wireless connectivity for hassle-free gaming"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "Controllers",
+    "Gaming Consoles"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/050-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/050-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/050-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece8821079f"
+  },
+  "name": "HyperX Cloud II Gaming Headset",
+  "brand": "HyperX",
+  "price": 5989.99,
+  "discount": 0,
+  "description": "Experience immersive gaming audio with the HyperX Cloud II gaming headset. It features 7.1 virtual surround sound, comfortable memory foam ear cushions, and a detachable noise-canceling microphone.",
+  "features": [
+    "7.1 virtual surround sound for an immersive gaming experience",
+    "Comfortable memory foam ear cushions for extended gaming sessions",
+    "Detachable noise-canceling microphone for clear voice communication",
+    "Durable aluminum frame for long-lasting use",
+    "Multi-platform compatibility for use with various gaming systems"
+  ],
+  "category": [
+    "Gaming Gear",
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Gaming Headsets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/051-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/051-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/051-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a0"
+  },
+  "name": "SteelSeries Arctis 7 Wireless Gaming Headset",
+  "brand": "SteelSeries",
+  "price": 8999.99,
+  "discount": 0,
+  "description": "Enjoy wireless freedom with the SteelSeries Arctis 7 gaming headset. It offers DTS Headphone:X 7.1 surround sound, a ClearCast microphone, and a comfortable, adjustable headband.",
+  "features": [
+    "DTS Headphone:X 7.1 surround sound",
+    "ClearCast microphone",
+    "Wireless connectivity",
+    "Adjustable headband",
+    "Long-lasting battery life"
+  ],
+  "category": [
+    "Gaming Gear",
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Gaming Headsets",
+    "Bluetooth Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/052-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/052-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/052-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a1"
+  },
+  "name": "Oculus Quest 2 - Advanced All-In-One Virtual Reality Headset",
+  "brand": "Oculus",
+  "price": 22989.99,
+  "discount": 0,
+  "description": "Experience immersive VR gaming and entertainment with the Oculus Quest 2. It offers a wireless, all-in-one design, high-resolution display, and a vast library of VR experiences.",
+  "features": [
+    "Wireless, all-in-one design",
+    "High-resolution display",
+    "Vast library of VR experiences",
+    "Immersive VR gaming",
+    "Intuitive controllers for interaction"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "VR Headsets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/053-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/053-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/053-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a2"
+  },
+  "name": "HTC VIVE Cosmos Elite Virtual Reality System",
+  "brand": "HTC",
+  "price": 99999.99,
+  "discount": 0,
+  "description": "Dive into a new reality with the HTC VIVE Cosmos Elite VR system. It offers precise tracking, high-quality displays, and compatibility with a wide range of VR content.",
+  "features": [
+    "Precise tracking",
+    "High-quality displays",
+    "Wide compatibility with VR content",
+    "Immersive VR experience",
+    "Comfortable fit and adjustable design"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "VR Headsets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/054-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/054-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/054-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a3"
+  },
+  "name": "RESPAWN 110 Racing Style Gaming Chair",
+  "brand": "RESPAWN",
+  "price": 9999.99,
+  "discount": 0,
+  "description": "Upgrade your gaming setup with the RESPAWN 110 Racing Style Gaming Chair. It features racing-inspired design, adjustable recline, and ergonomic support for long gaming sessions.",
+  "features": [
+    "Sleek racing-inspired design",
+    "Adjustable recline for customizable comfort",
+    "Ergonomic lumbar and neck support",
+    "Sturdy construction for durability",
+    "Padded armrests for extra comfort"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "Gaming Chairs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/055-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/055-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/055-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a4"
+  },
+  "name": "Homall Gaming Chair - High-Back Racing Chair",
+  "brand": "Homall",
+  "price": 6999.99,
+  "discount": 0,
+  "description": "Experience comfort and style with the Homall Gaming Chair. It's a high-back racing chair with adjustable features, making it perfect for gaming and work alike.",
+  "features": [
+    "Ergonomic high-back design",
+    "Adjustable seat height and armrests",
+    "Sturdy and durable construction",
+    "Smooth 360-degree swivel",
+    "Comfortable and breathable material"
+  ],
+  "category": [
+    "Gaming Gear"
+  ],
+  "subcategory": [
+    "Gaming Chairs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/056-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/056-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/056-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a5"
+  },
+  "name": "Apple Watch Series 7 - GPS, 41mm, Blue Aluminum Case",
+  "brand": "Apple",
+  "price": 23989.99,
+  "discount": 0,
+  "description": "Stay connected and track your health with the Apple Watch Series 7. This smartwatch features a beautiful 41mm Blue Aluminum Case and offers GPS functionality for active lifestyles.",
+  "features": [
+    "Always-On Retina display",
+    "Blood oxygen sensor",
+    "Electrical heart sensor",
+    "Water resistant to 50 meters",
+    "Built-in GPS"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Smartwatches"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/057-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/057-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/057-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a6"
+  },
+  "name": "Samsung Galaxy Watch 4 - GPS, 44mm, Black",
+  "brand": "Samsung",
+  "price": 14989.99,
+  "discount": 0,
+  "description": "Get advanced fitness and health tracking with the Samsung Galaxy Watch 4. It's a GPS smartwatch with a sleek 44mm Black design, perfect for active individuals.",
+  "features": [
+    "Advanced fitness and health tracking",
+    "GPS functionality",
+    "Sleek 44mm Black design",
+    "Long battery life",
+    "Compatible with Android and iOS devices"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Smartwatches"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/058-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/058-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/058-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a7"
+  },
+  "name": "Fitbit Charge 5 Fitness and Activity Tracker",
+  "brand": "Fitbit",
+  "price": 10789.99,
+  "discount": 0,
+  "description": "Monitor your health and fitness with the Fitbit Charge 5 tracker. It offers advanced health features, heart rate monitoring, and a bright color display for a stylish look.",
+  "features": [
+    "Advanced health features",
+    "Heart rate monitoring",
+    "Bright color display",
+    "Long battery life",
+    "Water resistant to 50 meters"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Fitness Trackers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/059-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/059-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/059-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a8"
+  },
+  "name": "Garmin Venu 2S GPS Smartwatch and Fitness Tracker",
+  "brand": "Garmin",
+  "price": 19989.99,
+  "discount": 0,
+  "description": "Achieve your fitness goals with the Garmin Venu 2S smartwatch and fitness tracker. It offers GPS tracking, workout profiles, and health monitoring for active individuals.",
+  "features": [
+    "GPS tracking",
+    "Workout profiles",
+    "Health monitoring",
+    "Long battery life",
+    "Bright AMOLED display"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Fitness Trackers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/060-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/060-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/060-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107a9"
+  },
+  "name": "Sony PlayStation VR - Mega Pack Bundle",
+  "brand": "Sony",
+  "price": 27989.99,
+  "discount": 0,
+  "description": "Experience immersive gaming with the Sony PlayStation VR Mega Pack Bundle. It includes everything you need for VR gaming, including the headset, camera, and games.",
+  "features": [
+    "5.7-inch OLED display with 960 x 1080 resolution per eye",
+    "120Hz refresh rate",
+    "360-degree field of view",
+    "Built-in accelerometer, gyroscope, and magnetometer",
+    "Includes PlayStation VR headset, PlayStation Camera, PlayStation Move controllers, and games"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "VR Headsets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/061-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/061-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/061-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107aa"
+  },
+  "name": "Oculus Rift S PC-Powered VR Gaming Headset",
+  "brand": "Oculus",
+  "price": 31299.99,
+  "discount": 0,
+  "description": "Take your gaming to the next level with the Oculus Rift S VR gaming headset. It's PC-powered, offering high-quality visuals and an immersive VR experience for gamers.",
+  "features": [
+    "1440 x 1440 resolution per eye",
+    "80Hz refresh rate",
+    "110-degree field of view",
+    "Built-in Insight tracking system",
+    "Requires a PC with Windows 10 and a compatible graphics card"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "VR Headsets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/062-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/062-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/062-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ab"
+  },
+  "name": "Bose Frames - Audio Sunglasses with Open Ear Headphones",
+  "brand": "Bose",
+  "price": 14129.99,
+  "discount": 0,
+  "description": "Enjoy music and stay connected discreetly with Bose Frames. These audio sunglasses feature open-ear headphones and a stylish design for a unique wearable experience.",
+  "features": [
+    "Open-ear headphones deliver sound without blocking out your surroundings",
+    "Stylish design with a variety of frame styles to choose from",
+    "Up to 5.5 hours of battery life on a single charge",
+    "Bluetooth connectivity for pairing with your smartphone or other devices",
+    "Built-in microphone for hands-free calling"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Smart Glasses"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/063-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/063-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/063-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ac"
+  },
+  "name": "North Focals 2.0 - Smart Glasses with Custom Prescription Lenses",
+  "brand": "North",
+  "price": 29999.99,
+  "discount": 0,
+  "description": "Stay connected and see important information in real-time with North Focals 2.0 smart glasses. These glasses include custom prescription lenses and a discreet display for convenience.",
+  "features": [
+    "Custom prescription lenses",
+    "Discreet display for viewing notifications, messages, and other information",
+    "Voice control for hands-free operation",
+    "Bluetooth connectivity for pairing with your smartphone",
+    "Up to 8 hours of battery life on a single charge"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Smart Glasses"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/064-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/064-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/064-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ad"
+  },
+  "name": "Fitbit Charge 4 Replacement Band - Black Silicone",
+  "brand": "Fitbit",
+  "price": 1699.99,
+  "discount": 0,
+  "description": "Refresh your Fitbit Charge 4 with a replacement band. This black silicone band is durable, comfortable, and perfect for your fitness tracking needs.",
+  "features": [
+    "Durable silicone construction",
+    "Comfortable fit",
+    "Easy to install and remove",
+    "Available in a variety of colors",
+    "Sweat and water resistant"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Fitness Accessories"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/065-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/065-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/065-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ae"
+  },
+  "name": "Phoenix Fitness Running Sports Armband",
+  "brand": "Phoenix",
+  "price": 799.99,
+  "discount": 0,
+  "description": "Keep your smartphone close during workouts with the Phoenix Fitness Running Sports Armband. This armband allows you to easily access your gadget for tracking your fitness progress and playing music.",
+  "features": [
+    "Securely holds smartphones up to 6.5 inches",
+    "Soft and breathable fabric for all-day comfort",
+    "Adjustable strap for a custom fit",
+    "Sweat and water resistant",
+    "Reflective accents for visibility in low light conditions"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Fitness Accessories"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/066-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/066-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/066-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107af"
+  },
+  "name": "Bellabeat Leaf Urban Smart Jewelry Health Tracker",
+  "brand": "Bellabeat",
+  "price": 7889.99,
+  "discount": 0,
+  "description": "Stay stylish while tracking your health with the Bellabeat Leaf Urban. This smart jewelry piece monitors your activity, sleep, and stress levels, all while looking elegant.",
+  "features": [
+    "Activity tracking",
+    "Sleep monitoring",
+    "Stress level tracking",
+    "Water-resistant design",
+    "Long battery life"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Smart Jewelry"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/067-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/067-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/067-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b0"
+  },
+  "name": "Motiv Ring - Fitness, Sleep and Heart Rate Tracker",
+  "brand": "Motiv",
+  "price": 9999.99,
+  "discount": 0,
+  "description": "Wear your fitness tracker discreetly with the Motiv Ring. This smart ring monitors your activity, sleep, and heart rate, all in a compact and stylish design.",
+  "features": [
+    "Activity tracking",
+    "Sleep monitoring",
+    "Heart rate monitoring",
+    "Waterproof design",
+    "3-day battery life"
+  ],
+  "category": [
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Smart Jewelry"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/068-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/068-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/068-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b1"
+  },
+  "name": "Canon EOS 5D Mark IV Full Frame Digital SLR Camera",
+  "brand": "Canon",
+  "price": 149999.99,
+  "discount": 0,
+  "description": "Capture stunning photos and videos with the Canon EOS 5D Mark IV DSLR camera. It features a full-frame sensor, 30.4MP resolution, and advanced image processing.",
+  "features": [
+    "Full-frame sensor",
+    "30.4MP resolution",
+    "Dual Pixel CMOS AF",
+    "4K video recording",
+    "Built-in Wi-Fi and NFC"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "DSLR Cameras"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/069-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/069-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/069-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b2"
+  },
+  "name": "Nikon D7500 DX-Format Digital SLR Camera",
+  "brand": "Nikon",
+  "price": 59999.99,
+  "discount": 0,
+  "description": "Unleash your creativity with the Nikon D7500 digital SLR camera. It boasts a DX-format sensor, 20.9MP resolution, and advanced features for photography enthusiasts.",
+  "features": [
+    "DX-format sensor with 20.9MP resolution",
+    "EXPEED 6 image processor",
+    "4K Ultra HD video recording at 30p",
+    "180-degree tilting touchscreen display",
+    "105-point phase-detection autofocus system",
+    "Built-in Wi-Fi and Bluetooth connectivity"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "DSLR Cameras"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/070-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/070-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/070-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b3"
+  },
+  "name": "Sony Alpha a7 III Mirrorless Digital Camera",
+  "brand": "Sony",
+  "price": 99999.99,
+  "discount": 0,
+  "description": "Elevate your photography with the Sony Alpha a7 III mirrorless camera. It features a full-frame sensor, 24.2MP resolution, and exceptional performance in a compact design.",
+  "features": [
+    "24.2MP full-frame back-illuminated sensor",
+    "Wide dynamic range and high ISO sensitivity",
+    "Fast and reliable AF performance",
+    "4K video recording with full pixel readout",
+    "Durable, weather-sealed magnesium alloy body"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Mirrorless Cameras"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/071-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/071-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/071-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b4"
+  },
+  "name": "Fujifilm X-T4 Mirrorless Digital Camera",
+  "brand": "Fujifilm",
+  "price": 89989.99,
+  "discount": 0,
+  "description": "Unleash your creativity with the Fujifilm X-T4 mirrorless camera. It offers impressive image quality, 26.1MP resolution, and advanced features for photography enthusiasts.",
+  "features": [
+    "26.1MP APS-C X-Trans BSI CMOS 4 sensor",
+    "Fast continuous shooting up to 15fps",
+    "5-axis in-body image stabilization",
+    "4K/60p 10bit video recording",
+    "Weather-sealed magnesium alloy body"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Mirrorless Cameras"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/072-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/072-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/072-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b5"
+  },
+  "name": "Canon EF 50mm f/1.8 STM Lens",
+  "brand": "Canon",
+  "price": 6499.99,
+  "discount": 0,
+  "description": "Enhance your photography with the Canon EF 50mm f/1.8 STM lens. It's a prime lens with a wide aperture, perfect for capturing sharp and beautiful images.",
+  "features": [
+    "50mm focal length",
+    "f/1.8 maximum aperture",
+    "Stepper motor for smooth and quiet autofocus",
+    "7-blade circular aperture",
+    "Minimum focusing distance of 35cm"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Lenses"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/073-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/073-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/073-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b6"
+  },
+  "name": "Nikon AF-S FX NIKKOR 50mm f/1.8G Lens",
+  "brand": "Nikon",
+  "price": 9499.99,
+  "discount": 0,
+  "description": "Capture stunning portraits and low-light scenes with the Nikon AF-S FX NIKKOR 50mm f/1.8G lens. It offers excellent image quality and versatility for photographers.",
+  "features": [
+    "50mm focal length",
+    "f/1.8 maximum aperture",
+    "Silent Wave Motor for fast, quiet AF",
+    "Nano Crystal and Super Integrated coatings",
+    "Compatible with full frame FX and DX cameras"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Lenses"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/074-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/074-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/074-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b7"
+  },
+  "name": "Manfrotto MT190XPRO4 4-Section Aluminum Tripod",
+  "brand": "Manfrotto",
+  "price": 12999.99,
+  "discount": 0,
+  "description": "Achieve steady shots with the Manfrotto MT190XPRO4 aluminum tripod. It features a 4-section design, ergonomic twist locks, and a center column for added stability.",
+  "features": [
+    "4-section legs for compact storage",
+    "90° center column for low angle shots",
+    "Quick power lock closures",
+    "Rubber feet for grip on slippery surfaces",
+    "15.4 lb load capacity"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Tripods and Stabilizers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/075-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/075-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/075-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b8"
+  },
+  "name": "DJI Ronin-S Handheld 3-Axis Gimbal Stabilizer",
+  "brand": "DJI",
+  "price": 29989.99,
+  "discount": 0,
+  "description": "Capture smooth and stable footage with the DJI Ronin-S handheld gimbal stabilizer. It offers 3-axis stabilization and is ideal for DSLRs and mirrorless cameras.",
+  "features": [
+    "3-axis mechanical gimbal stabilization",
+    "Support for cameras up to 7.9 lbs",
+    "Intelligent Modes for shooting flexibility",
+    "12-hour battery life",
+    "Customizable buttons and knobs"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Tripods and Stabilizers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/076-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/076-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/076-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107b9"
+  },
+  "name": "Lowepro ProTactic BP 450 AW II Camera Backpack",
+  "brand": "Lowepro",
+  "price": 14989.99,
+  "discount": 0,
+  "description": "Protect and organize your camera gear with the Lowepro ProTactic BP 450 AW II camera backpack. It features a modular design, rugged construction, and easy access.",
+  "features": [
+    "Water-resistant and durable construction",
+    "Plenty of pockets and straps",
+    "Integrated all-weather cover",
+    "Side and front access points",
+    "Laptop and tablet sleeves"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Camera Bags and Cases"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/077-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/077-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/077-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ba"
+  },
+  "name": "Pelican 1510 Case with Foam",
+  "brand": "Pelican",
+  "price": 21999.99,
+  "discount": 0,
+  "description": "Keep your valuable camera equipment safe with the Pelican 1510 case. It features customizable foam, a watertight seal, and a rugged design for maximum protection.",
+  "features": [
+    "Watertight, crushproof, and dustproof",
+    "Pick N' Pluck foam for customization",
+    "Automatic pressure purge valve",
+    "Stainless steel reinforced padlock protectors",
+    "Folding,retractable handle"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Camera Bags and Cases"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/078-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/078-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/078-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107bb"
+  },
+  "name": "SanDisk Extreme Pro 128GB SDXC UHS-I Memory Card",
+  "brand": "SanDisk",
+  "price": 3999.99,
+  "discount": 0,
+  "description": "Store and transfer your photos and videos with the SanDisk Extreme Pro SDXC memory card. It offers 128GB capacity, UHS-I speed, and reliable performance.",
+  "features": [
+    "128GB storage capacity",
+    "Speeds up to 90MB/s read and write",
+    "UHS-I for full HD and 4K video capture",
+    "Temperature, water, shock, and x-ray proof",
+    "Lifetime limited warranty"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Memory Cards"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/079-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/079-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/079-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107bc"
+  },
+  "name": "Lexar Professional 64GB SDXC UHS-II Memory Card",
+  "brand": "Lexar",
+  "price": 2499.99,
+  "discount": 0,
+  "description": "Capture high-quality photos and videos with the Lexar Professional SDXC UHS-II memory card. It features 64GB capacity and high-speed data transfer for professional use.",
+  "features": [
+    "64GB storage capacity",
+    "UHS-II interface for fast transfer speeds",
+    "Up to 300MB/s read and 260MB/s write",
+    "Durable design withstands shock and vibration",
+    "Includes Image Rescue software"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Memory Cards"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/080-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/080-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/080-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107bd"
+  },
+  "name": "Neewer 660 LED Video Light Dimmable Bi-Color",
+  "brand": "Neewer",
+  "price": 15989.99,
+  "discount": 0,
+  "description": "Enhance your photography and videography with the Neewer 660 LED video light. It offers bi-color temperature adjustment, dimmable brightness, and is perfect for various shooting scenarios.",
+  "features": [
+    "660 LED beads with 5600-3300K color range",
+    "Stepless dimming from 10-100% brightness",
+    "Wide 110° beam angle",
+    "Includes battery pack and charging cable",
+    "Optional mounts for cameras, light stands, etc."
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Lighting Equipment"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/081-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/081-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/081-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107be"
+  },
+  "name": "Godox SL-60W 5600K Studio LED Continuous Video Light",
+  "brand": "Godox",
+  "price": 5199.99,
+  "discount": 0,
+  "description": "Achieve professional lighting in your studio with the Godox SL-60W LED video light. It provides a 5600K color temperature, high-quality lighting, and excellent color rendering.",
+  "features": [
+    "60W power with 5600K color temperature",
+    "Flicker-free and fanless design",
+    "Bowens mount for modifiers and accessories",
+    "AC and V-mount battery power options",
+    "Wireless and DMX512 control capabilities"
+  ],
+  "category": [
+    "Camera and Photography"
+  ],
+  "subcategory": [
+    "Lighting Equipment"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/082-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/082-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/082-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107bf"
+  },
+  "name": "Amazon Echo (4th Gen) Smart Speaker with Alexa",
+  "brand": "Amazon",
+  "price": 5699.99,
+  "discount": 0,
+  "description": "Elevate your home automation with the Amazon Echo (4th Gen) smart speaker. It features Alexa voice control, premium sound, and can connect to other smart devices for seamless automation.",
+  "features": [
+    "Alexa voice assistant with natural language processing",
+    "Zigbee smart home hub built-in",
+    "Improved speaker design for rich bass",
+    "Controls compatible smart devices",
+    "Lets you manage calendar, lists, weather, news, etc."
+  ],
+  "category": [
+    "Home Automation",
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Smart Speakers",
+    "Wireless Speakers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/083-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/083-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/083-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c0"
+  },
+  "name": "Google Nest Audio Smart Speaker with Google Assistant",
+  "brand": "Google",
+  "price": 5999.99,
+  "discount": 0,
+  "description": "Immerse yourself in music and home automation with the Google Nest Audio smart speaker. It's powered by Google Assistant, delivers rich sound, and seamlessly integrates with your smart home devices.",
+  "features": [
+    "Google Assistant with voice control",
+    "2 tweeters and 1 mid-woofer for detailed sound",
+    "Adaptive sound technology",
+    "Works with Chromecast-enabled devices",
+    "Touch controls for playback and volume"
+  ],
+  "category": [
+    "Home Automation",
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Smart Speakers",
+    "Wireless Speakers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/084-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/084-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/084-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c1"
+  },
+  "name": "Philips Hue White and Color Ambiance A19 Smart Bulb Starter Kit",
+  "brand": "Philips",
+  "price": 4399.99,
+  "discount": 0,
+  "description": "Transform your home with the Philips Hue smart bulb starter kit. It includes color-changing bulbs, a bridge, and is compatible with voice assistants for easy control.",
+  "features": [
+    "Color-changing capabilities",
+    "Smart bridge for connectivity",
+    "Voice assistant compatibility",
+    "Customizable lighting options",
+    "Remote control via smartphone"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Lights"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/085-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/085-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/085-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c2"
+  },
+  "name": "LIFX Mini White (A19) Wi-Fi Smart LED Light Bulb",
+  "brand": "LIFX",
+  "price": 1499.99,
+  "discount": 0,
+  "description": "Add smart lighting to your home with the LIFX Mini White smart LED light bulb. It offers Wi-Fi connectivity, dimmable options, and works with popular smart home platforms.",
+  "features": [
+    "Wi-Fi connectivity",
+    "Dimmable options",
+    "Compatibility with smart home platforms",
+    "Energy-efficient LED technology",
+    "Easy setup and control via smartphone"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Lights"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/086-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/086-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/086-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c3"
+  },
+  "name": "Nest Learning Thermostat (3rd Generation)",
+  "brand": "Nest",
+  "price": 13269.99,
+  "discount": 0,
+  "description": "Upgrade your home's climate control with the Nest Learning Thermostat. It learns your preferences and adjusts temperatures for energy savings and comfort, all controllable via your smartphone.",
+  "features": [
+    "Learns and adapts to your preferences",
+    "Energy-saving temperature adjustments",
+    "Smartphone control for remote management",
+    "High-resolution color display",
+    "Easy installation and compatibility with most HVAC systems"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Thermostats"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/087-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/087-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/087-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c4"
+  },
+  "name": "Ecobee4 Smart Thermostat with Built-In Alexa",
+  "brand": "Ecobee",
+  "price": 13889.99,
+  "discount": 0,
+  "description": "Experience convenience with the Ecobee4 smart thermostat. It features built-in Alexa for voice control, room sensors for precise comfort, and energy-saving features.",
+  "features": [
+    "Built-in Alexa for voice control",
+    "Room occupancy sensors",
+    "Energy-saving mode with scheduling",
+    "Compatibility with multiple heating and cooling systems",
+    "Intuitive mobile app for remote control"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Thermostats"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/088-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/088-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/088-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c5"
+  },
+  "name": "August Wi-Fi Smart Lock (4th Generation)",
+  "brand": "August",
+  "price": 16999.99,
+  "discount": 0,
+  "description": "Secure your home with the August Wi-Fi Smart Lock. It offers remote access, keyless entry, and works with your smartphone to provide advanced home security.",
+  "features": [
+    "Remote access and control from anywhere",
+    "Keyless entry for added convenience",
+    "Advanced security features for home protection",
+    "Low battery indicator for maintenance",
+    "Simple installation and setup"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Locks"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/089-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/089-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/089-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c6"
+  },
+  "name": "Yale Assure Lock SL - Key Free Touchscreen Smart Lock",
+  "brand": "Yale",
+  "price": 13469.99,
+  "discount": 0,
+  "description": "Upgrade your home security with the Yale Assure Lock SL. It features a touchscreen for keyless entry, works with popular smart home systems, and provides added convenience and peace of mind.",
+  "features": [
+    "Keyless entry with touchscreen keypad",
+    "Compatible with popular smart home systems, including Alexa, Google Assistant, and Siri",
+    "Remote locking and unlocking via the Yale app",
+    "Built-in alarm and tamper protection",
+    "Easy to install and use"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Locks"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/090-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/090-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/090-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c7"
+  },
+  "name": "Arlo Pro 3 Wire-Free Security Camera System - 2 Camera Kit",
+  "brand": "Arlo",
+  "price": 39999.99,
+  "discount": 0,
+  "description": "Enhance your home security with the Arlo Pro 3 security camera system. This kit includes two wire-free cameras, 2K resolution, color night vision, and smart features for comprehensive monitoring.",
+  "features": [
+    "Two wire-free cameras for easy installation",
+    "2K resolution for sharp and clear images",
+    "Color night vision for visibility in low-light conditions",
+    "Smart features such as motion detection, activity zones, and custom alerts",
+    "Weatherproof construction for outdoor use"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Security Cameras"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/091-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/091-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/091-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c8"
+  },
+  "name": "Ring Spotlight Cam Battery HD Security Camera",
+  "brand": "Ring",
+  "price": 16999.99,
+  "discount": 0,
+  "description": "Protect your home with the Ring Spotlight Cam security camera. It offers HD video, two-way talk, built-in siren, and works with the Ring app for remote monitoring and alerts.",
+  "features": [
+    "HD video recording",
+    "Two-way talk",
+    "Built-in siren",
+    "Works with the Ring app for remote monitoring and alerts",
+    "Battery powered for easy installation",
+    "Motion detection and night vision"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Security Cameras"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/092-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/092-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/092-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107c9"
+  },
+  "name": "TP-Link Kasa Smart Wi-Fi Plug Mini (2-Pack)",
+  "brand": "TP-Link",
+  "price": 2999.99,
+  "discount": 0,
+  "description": "Make any device smart with the TP-Link Kasa Smart Wi-Fi Plug Mini. This 2-pack includes compact smart plugs that allow you to control your appliances remotely and save energy.",
+  "features": [
+    "Control devices from anywhere with the Kasa app",
+    "Create schedules and timers to automate your home",
+    "Monitor energy usage and save money",
+    "Works with Alexa, Google Assistant, and Siri",
+    "Compact design that fits in most outlets"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Plugs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/093-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/093-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/093-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ca"
+  },
+  "name": "Amazon Smart Plug, works with Alexa",
+  "brand": "Amazon",
+  "price": 1399.99,
+  "discount": 0,
+  "description": "Easily voice control your devices with the Amazon Smart Plug. It's compatible with Alexa and enables hands-free operation of your appliances for added convenience.",
+  "features": [
+    "Voice control with Alexa",
+    "Hands-free operation of appliances",
+    "Compact and easy-to-install design",
+    "Energy monitoring and scheduling",
+    "Remote control via the Alexa app"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Smart Plugs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/094-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/094-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/094-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107cb"
+  },
+  "name": "Samsung SmartThings Hub (3rd Generation)",
+  "brand": "Samsung",
+  "price": 12769.99,
+  "discount": 0,
+  "description": "Transform your home into a smart home with the Samsung SmartThings Hub. It's a central hub that connects and controls all your smart devices, allowing you to create a seamless automation experience.",
+  "features": [
+    "Central hub for smart device control",
+    "Connects and manages all smart devices",
+    "Seamless automation experience",
+    "Compatibility with a wide range of smart devices",
+    "Easy setup and integration with popular platforms"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Home Automation Hubs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/095-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/095-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/095-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107cc"
+  },
+  "name": "Wink Hub 2, Easily Control Every Device in Your Smart Home",
+  "brand": "Wink",
+  "price": 5619.99,
+  "discount": 0,
+  "description": "Make your home smarter with the Wink Hub 2. It connects to a wide range of smart devices and lets you control and automate them from one easy-to-use app.",
+  "features": [
+    "Central hub for smart device control",
+    "Connects to a wide range of smart devices",
+    "Seamless automation and control from one app",
+    "Integration with popular smart home platforms",
+    "User-friendly setup and interface"
+  ],
+  "category": [
+    "Home Automation"
+  ],
+  "subcategory": [
+    "Home Automation Hubs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/096-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/096-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/096-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107cd"
+  },
+  "name": "Anker PowerCore 26800mAh Portable Charger",
+  "brand": "Anker",
+  "price": 4999.99,
+  "discount": 0,
+  "description": "Keep your devices charged on the go with the Anker PowerCore 26800mAh portable charger. It offers high capacity, fast charging, and multiple ports to charge multiple devices simultaneously.",
+  "features": [
+    "High capacity of 26800mAh",
+    "Fast charging technology for quick power replenishment",
+    "Multiple ports for charging multiple devices simultaneously",
+    "Compact and portable design for on-the-go use",
+    "LED indicator to display the remaining power"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Power Banks"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/097-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/097-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/097-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ce"
+  },
+  "name": "RAVPower 20000mAh Portable Charger Power Bank",
+  "brand": "RAVPower",
+  "price": 1499.99,
+  "discount": 0,
+  "description": "Stay powered up with the RAVPower 20000mAh portable charger power bank. It offers a large battery capacity, fast charging, and a compact design for easy portability.",
+  "features": [
+    "Large battery capacity of 20000mAh",
+    "Fast charging technology for quick power replenishment",
+    "Compact and portable design for on-the-go use",
+    "Multiple device compatibility",
+    "LED indicator to display the remaining power"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Power Banks"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/098-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/098-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/098-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107cf"
+  },
+  "name": "Anker 7-Port USB 3.0 Data Hub with Power Adapter",
+  "brand": "Anker",
+  "price": 2999.99,
+  "discount": 0,
+  "description": "Expand your computer's connectivity with the Anker 7-Port USB 3.0 Data Hub. It provides seven high-speed USB 3.0 ports and comes with a power adapter for efficient device charging.",
+  "features": [
+    "Seven high-speed USB 3.0 ports for expanded connectivity",
+    "Included power adapter for efficient device charging",
+    "Plug-and-play installation for ease of use",
+    "Compact and portable design",
+    "Compatibility with various USB devices"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "USB Hubs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/099-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/099-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/099-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d0"
+  },
+  "name": "Sabrent 4-Port USB 2.0 Hub with Individual Power Switches",
+  "brand": "Sabrent",
+  "price": 1299.99,
+  "discount": 0,
+  "description": "Easily connect and control your USB devices with the Sabrent 4-Port USB 2.0 Hub. It features individual power switches for each port, making it convenient and energy-efficient.",
+  "features": [
+    "Four USB 2.0 ports for device connectivity",
+    "Individual power switches for energy-efficient control",
+    "Plug-and-play setup for easy use",
+    "Compact and portable design",
+    "Compatible with a wide range of USB devices"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "USB Hubs"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/100-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/100-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/100-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d1"
+  },
+  "name": "Havit HV-F2056 15.6\"-17\" Laptop Cooling Pad",
+  "brand": "Havit",
+  "price": 3119.99,
+  "discount": 0,
+  "description": "Keep your laptop cool with the Havit HV-F2056 laptop cooling pad. It's designed for 15.6\" to 17\" laptops, features three high-speed fans, and provides ergonomic comfort during use.",
+  "features": [
+    "Designed for 15.6\" to 17\" laptops",
+    "Three high-speed fans for efficient cooling",
+    "Ergonomic design for comfortable laptop use",
+    "Adjustable fan speed control",
+    "USB-powered for convenience"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Laptop Cooling Pads"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/101-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/101-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/101-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d2"
+  },
+  "name": "Tree New Bee Cooling Pad for 15.6-17-Inch Laptops",
+  "brand": "Tree New Bee",
+  "price": 2659.99,
+  "discount": 0,
+  "description": "Prevent overheating with the Tree New Bee cooling pad. It's compatible with 15.6\" to 17\" laptops, offers five fans, and ergonomic design for comfortable use during long hours.",
+  "features": [
+    "Compatible with 15.6\" to 17\" laptops",
+    "Five cooling fans for efficient heat dissipation",
+    "Ergonomic design for comfortable extended use",
+    "Adjustable fan speed control",
+    "Non-slip surface for stable laptop placement"
+  ],
+  "category": [
+    "Laptops and Computers"
+  ],
+  "subcategory": [
+    "Laptop Cooling Pads"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/102-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/102-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/102-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d3"
+  },
+  "name": "iFixit Pro Tech Toolkit - Electronics, Smartphone, Computer & Tablet Repair Kit",
+  "brand": "iFixit",
+  "price": 3499.99,
+  "discount": 0,
+  "description": "Empower your DIY tech repairs with the iFixit Pro Tech Toolkit. It's a comprehensive kit for fixing electronics, smartphones, computers, and tablets, featuring precision tools and accessories.",
+  "features": [
+    "Comprehensive toolkit for electronics, smartphone, computer, and tablet repair",
+    "Includes precision tools and accessories for various repair tasks",
+    "High-quality materials for durability and long-lasting use",
+    "Portable and organized carrying case",
+    "Ideal for DIY tech enthusiasts and professionals"
+  ],
+  "category": [
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Tech Toolkits"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/103-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/103-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/103-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d4"
+  },
+  "name": "ORIA Precision Screwdriver Kit with 56 Bits for Electronics Repair",
+  "brand": "ORIA",
+  "price": 1199.99,
+  "discount": 0,
+  "description": "Tackle electronics repair with ease using the ORIA precision screwdriver kit. It includes 56 bits and essential tools for smartphone, laptop, and gadget repair.",
+  "features": [
+    "Comprehensive kit with 56 precision bits for various electronics repair",
+    "Essential tools for smartphone, laptop, and gadget repair",
+    "High-quality materials for durability and precise handling",
+    "Ergonomically designed handle for comfortable use",
+    "Compact and organized carrying case"
+  ],
+  "category": [
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Tech Toolkits"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/104-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/104-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/104-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d5"
+  },
+  "name": "Skycase Cable Management Sleeve with Zipper - 4 Pack",
+  "brand": "Skycase",
+  "price": 519.99,
+  "discount": 0,
+  "description": "Tame your cable chaos with the Skycase Cable Management Sleeve 4 Pack. These sleeves feature a zipper for easy installation and can keep your cables organized and out of sight.",
+  "features": [
+    "Set of 4 cable management sleeves",
+    "Zipper closure for easy installation and cable access",
+    "Durable and flexible neoprene material",
+    "Cable organization to reduce clutter",
+    "Conceals and protects cables for a clean look"
+  ],
+  "category": [
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Cable Organizers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/105-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/105-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/105-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d6"
+  },
+  "name": "Heldig Cable Clips - Cord Organizer Clips - 2 Pack",
+  "brand": "Heldig",
+  "price": 339.99,
+  "discount": 0,
+  "description": "Declutter your workspace with Heldig Cable Clips, a 2-pack cord organizer. These clips stick to surfaces and hold your cables neatly, making it easy to access and organize them.",
+  "features": [
+    "2-pack cord organizer clips",
+    "Adhesive backing for easy attachment to surfaces",
+    "Keep cables neatly organized and accessible",
+    "Ideal for decluttering workspaces and managing cables",
+    "Durable and easy-to-use design"
+  ],
+  "category": [
+    "Laptops and Computers",
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Cable Organizers"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/106-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/106-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/106-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d7"
+  },
+  "name": "Rocoren Adjustable Aluminum Cell Phone Stand",
+  "brand": "Rocoren",
+  "price": 909.99,
+  "discount": 0,
+  "description": "Keep your smartphone within easy reach with the Rocoren Adjustable Aluminum Cell Phone Stand. It's lightweight, foldable, and adjustable, making it perfect for hands-free use and video calls.",
+  "features": [
+    "Lightweight and durable aluminum construction",
+    "Adjustable stand for various viewing angles",
+    "Foldable design for portability and storage",
+    "Ideal for hands-free use and video calls",
+    "Compatible with most smartphones and tablets"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Smartphone Stands"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/107-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/107-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/107-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d8"
+  },
+  "name": "UGREEN Cell Phone Stand Holder",
+  "brand": "UGREEN",
+  "price": 399.99,
+  "discount": 0,
+  "description": "Stay organized and hands-free with the UGREEN Cell Phone Stand Holder. This adjustable stand is perfect for video calls, watching videos, or keeping your smartphone accessible while working on your gadgets.",
+  "features": [
+    "Adjustable cell phone stand holder",
+    "Hands-free viewing for video calls and media",
+    "Organize your workspace and keep your smartphone accessible",
+    "Sturdy and stable design for most smartphones and tablets",
+    "Ideal for hands-free work and entertainment"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Smartphone Stands"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/108-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/108-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/108-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107d9"
+  },
+  "name": "Anker Wireless Charger, PowerWave Pad",
+  "brand": "Anker",
+  "price": 899.99,
+  "discount": 0,
+  "description": "Charge your Qi-compatible devices with the Anker PowerWave Pad. It offers high-speed wireless charging and a non-slip surface for secure device placement.",
+  "features": [
+    "High-speed wireless charging for Qi-compatible devices",
+    "Non-slip surface for secure device placement",
+    "Efficient and convenient wireless charging solution",
+    "Compact and stylish design",
+    "Ideal for home and office use"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Wireless Charging Pads"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/109-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/109-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/109-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107da"
+  },
+  "name": "Yootech Wireless Charger, Qi-Certified Charging Pad",
+  "brand": "Yootech",
+  "price": 999.99,
+  "discount": 0,
+  "description": "Experience convenient wireless charging with the Yootech Qi-certified charging pad. It's compatible with various devices and includes safety features for worry-free charging.",
+  "features": [
+    "Qi-certified wireless charging",
+    "Compatibility with various devices",
+    "Built-in safety features for worry-free charging",
+    "Sleek and compact design",
+    "Non-slip surface for secure device placement"
+  ],
+  "category": [
+    "Smartphones and Accessories"
+  ],
+  "subcategory": [
+    "Wireless Charging Pads"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/110-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/110-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/110-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107db"
+  },
+  "name": "Microsoft Windows 11 Home",
+  "brand": "Microsoft",
+  "price": 7889.99,
+  "discount": 0,
+  "description": "Upgrade your computer with Microsoft Windows 11 Home. It offers a user-friendly interface, security features, and compatibility with a wide range of software and applications.",
+  "features": [
+    "User-friendly interface",
+    "Enhanced security features",
+    "Compatibility with a wide range of software",
+    "Improved performance and multitasking",
+    "Stylish and modern design"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Operating Systems"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/111-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/111-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/111-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107dc"
+  },
+  "name": "Microsoft Windows 11 Pro",
+  "brand": "Microsoft",
+  "price": 11289.99,
+  "discount": 0,
+  "description": "Upgrade your computer to the latest with Microsoft Windows 11 Pro. Experience a modern and intuitive interface, enhanced performance, and a host of new features to elevate your computing experience.",
+  "features": [
+    "Modern and intuitive interface",
+    "Enhanced system performance",
+    "Advanced security features",
+    "Seamless compatibility with software",
+    "Improved multitasking capabilities"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Operating Systems"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/112-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/112-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/112-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107dd"
+  },
+  "name": "Norton 360 Deluxe (3 Devices) - Antivirus, VPN, Internet Security",
+  "brand": "Norton",
+  "price": 1139.99,
+  "discount": 0,
+  "description": "Protect your devices with Norton 360 Deluxe, a comprehensive antivirus solution. It includes antivirus, VPN, and internet security features to keep your online activities secure.",
+  "features": [
+    "Comprehensive antivirus protection",
+    "Includes VPN for online privacy",
+    "Internet security features",
+    "Protects up to 3 devices",
+    "Secure your online activities"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Antivirus Software"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/113-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/113-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/113-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107de"
+  },
+  "name": "McAfee Total Protection (5 Devices) - Antivirus, Privacy, & Identity Protection",
+  "brand": "McAfee",
+  "price": 1419.99,
+  "discount": 0,
+  "description": "Secure your digital life with McAfee Total Protection. It offers antivirus, privacy, and identity protection features to safeguard your devices and personal information.",
+  "features": [
+    "Comprehensive antivirus protection",
+    "Privacy protection features",
+    "Identity protection for safer online activities",
+    "Covers up to 5 devices",
+    "Secure your personal information"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Antivirus Software"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/114-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/114-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/114-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107df"
+  },
+  "name": "Microsoft Office 365 Personal (1 Person) - Productivity Software Suite",
+  "brand": "Microsoft",
+  "price": 3969.99,
+  "discount": 0,
+  "description": "Boost your productivity with Microsoft Office 365 Personal, a comprehensive software suite. It includes popular applications like Word, Excel, PowerPoint, and more for all your work and personal needs.",
+  "features": [
+    "Includes popular office applications (Word, Excel, PowerPoint, etc.)",
+    "Designed for one user (1 Person)",
+    "Access on multiple devices (PC, Mac, tablet, and phone)",
+    "1TB of OneDrive cloud storage",
+    "Regular software updates and new features"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Productivity Software"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/115-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/115-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/115-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e0"
+  },
+  "name": "Adobe Creative Cloud - Professional Creative Software Suite",
+  "brand": "Adobe",
+  "price": 33989.99,
+  "discount": 0,
+  "description": "Unleash your creativity with Adobe Creative Cloud, a professional software suite. It includes a range of creative tools like Photoshop, Illustrator, Premiere Pro, and more for graphic design, video editing, and more.",
+  "features": [
+    "Professional software suite for creatives",
+    "Includes popular creative applications (Photoshop, Illustrator, Premiere Pro, etc.)",
+    "Ideal for graphic design, video editing, and other creative tasks",
+    "Access to a library of fonts, stock images, and templates",
+    "Regular software updates and cloud storage for projects"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Productivity Software"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/116-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/116-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/116-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e1"
+  },
+  "name": "The Witcher 3: Wild Hunt - Game of the Year Edition (PS5)",
+  "brand": "CD Projekt Red",
+  "price": 2269.99,
+  "discount": 0,
+  "description": "Embark on an epic journey with Geralt of Rivia in The Witcher 3: Wild Hunt - Game of the Year Edition. This award-winning action RPG offers a vast open world, deep storytelling, and numerous quests.",
+  "features": [
+    "Epic action RPG with an open world",
+    "Deep storytelling and rich character development",
+    "Numerous quests and adventures to embark upon",
+    "Enhanced edition for the PlayStation 5",
+    "Game of the Year Edition with additional content"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Games and Gaming Software"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/117-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/117-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/117-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e2"
+  },
+  "name": "Sony PlayStation Plus 12-Month Membership (Digital Code)",
+  "brand": "Sony",
+  "price": 5339.99,
+  "discount": 0,
+  "description": "Enhance your gaming experience with a 12-month PlayStation Plus membership. This digital code provides access to online multiplayer, free monthly games, and exclusive discounts on the PlayStation Network.",
+  "features": [
+    "12-month PlayStation Plus membership",
+    "Digital code for online activation",
+    "Access to online multiplayer gaming",
+    "Monthly selection of free games",
+    "Exclusive discounts on the PlayStation Network"
+  ],
+  "category": [
+    "Software and Apps"
+  ],
+  "subcategory": [
+    "Games and Gaming Software"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/118-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/118-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/118-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e3"
+  },
+  "name": "LeapFrog LeapPad Academy Kids' Learning Tablet",
+  "brand": "LeapFrog",
+  "price": 6799.99,
+  "discount": 0,
+  "description": "Inspire learning with the LeapFrog LeapPad Academy. This kids' learning tablet is packed with educational content, featuring interactive games, books, and activities to support early learning.",
+  "features": [
+    "Interactive educational games",
+    "Engaging e-books for kids",
+    "Supports early learning",
+    "Kid-friendly design and interface",
+    "Parental control and progress tracking"
+  ],
+  "category": [
+    "Tech for Kids"
+  ],
+  "subcategory": [
+    "Educational Tablets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/119-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/119-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/119-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e4"
+  },
+  "name": "VTech InnoTab MAX Kids' Learning Tablet",
+  "brand": "VTech",
+  "price": 4749.99,
+  "discount": 0,
+  "description": "Foster creativity and education with the VTech InnoTab MAX. This kids' learning tablet offers a wide range of age-appropriate apps, games, and e-books, helping children learn and have fun.",
+  "features": [
+    "Wide range of age-appropriate apps and games",
+    "Interactive e-books for children",
+    "Promotes creativity and learning",
+    "Kid-friendly design and interface",
+    "Parental controls for a safe experience"
+  ],
+  "category": [
+    "Tech for Kids"
+  ],
+  "subcategory": [
+    "Educational Tablets"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/120-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/120-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/120-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e5"
+  },
+  "name": "Puro Sound Labs PuroBasic Wired Headphones for Kids",
+  "brand": "Puro Sound Labs",
+  "price": 4989.99,
+  "discount": 0,
+  "description": "Protect young ears with the Puro Sound Labs PuroBasic Wired Headphones for Kids. These kid-friendly headphones provide studio-grade audio quality while limiting volume to safe levels for children.",
+  "features": [
+    "Studio-grade audio quality",
+    "Volume limited for child safety",
+    "Durable and kid-friendly design",
+    "Comfortable for extended use",
+    "Wired headphones for reliability"
+  ],
+  "category": [
+    "Tech for Kids",
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Kid-Friendly Headphones",
+    "Over-Ear Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/121-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/121-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/121-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e6"
+  },
+  "name": "LilGadgets Connect+ PRO Kids' Wired Headphones",
+  "brand": "LilGadgets",
+  "price": 2999.99,
+  "discount": 0,
+  "description": "Provide safe and comfortable audio for kids with LilGadgets Connect+ PRO wired headphones. These headphones feature volume limiting and share-port technology for multiple kids to listen together.",
+  "features": [
+    "Volume-limiting for child safety",
+    "Share-port technology for group listening",
+    "Comfortable design for kids",
+    "Durable construction",
+    "Wired for reliability"
+  ],
+  "category": [
+    "Tech for Kids",
+    "Audio and Headphones"
+  ],
+  "subcategory": [
+    "Kid-Friendly Headphones",
+    "Over-Ear Headphones"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/122-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/122-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/122-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e7"
+  },
+  "name": "Anki Cozmo - Educational Robot for Kids",
+  "brand": "Anki",
+  "price": 25299.99,
+  "discount": 0,
+  "description": "Introduce kids to robotics with Anki Cozmo. This educational robot is packed with AI and interactive features, allowing kids to play games, learn to code, and explore robotics.",
+  "features": [
+    "AI-powered educational robot",
+    "Interactive games and activities",
+    "Learn to code with Cozmo",
+    "Explore the world of robotics",
+    "Entertaining and educational"
+  ],
+  "category": [
+    "Tech for Kids"
+  ],
+  "subcategory": [
+    "Robotic Toys"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/123-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/123-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/123-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e8"
+  },
+  "name": "WowWee Robosapien X - Programmable Robot Toy",
+  "brand": "WowWee",
+  "price": 4539.99,
+  "discount": 0,
+  "description": "Unlock the world of robotics with the WowWee Robosapien X. This programmable robot toy offers various movements and functions, encouraging kids to learn programming and robotics.",
+  "features": [
+    "Programmable robot toy",
+    "Diverse movements and functions",
+    "Encourages learning programming and robotics",
+    "Interactive and educational",
+    "Fun for kids of all ages"
+  ],
+  "category": [
+    "Tech for Kids"
+  ],
+  "subcategory": [
+    "Robotic Toys"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/124-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/124-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/124-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107e9"
+  },
+  "name": "Osmo - Genius Starter Kit for iPad & iPhone",
+  "brand": "Osmo",
+  "price": 7999.99,
+  "discount": 0,
+  "description": "Encourage learning through play with the Osmo Genius Starter Kit for iPad & iPhone. This educational game kit includes interactive activities that teach math, reading, problem-solving, and more.",
+  "features": [
+    "Interactive learning games for kids",
+    "Covers math, reading, and problem-solving",
+    "Encourages learning through play",
+    "Compatible with iPad and iPhone",
+    "Engaging and educational"
+  ],
+  "category": [
+    "Tech for Kids"
+  ],
+  "subcategory": [
+    "Electronic Learning Games"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/125-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/125-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/125-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ea"
+  },
+  "name": "LeapFrog LeapStart 3D Interactive Learning System",
+  "brand": "LeapFrog",
+  "price": 5999.99,
+  "discount": 0,
+  "description": "Spark kids' curiosity and learning with the LeapFrog LeapStart 3D interactive learning system. This device offers a library of interactive books and activities to enhance reading and math skills.",
+  "features": [
+    "Interactive stylus for tapping and tracing",
+    "3D augmented reality for engaging learning experiences",
+    "Library of over 30 interactive books and activities (sold separately)",
+    "Adjustable volume and brightness",
+    "Durable design for active play"
+  ],
+  "category": [
+    "Tech for Kids"
+  ],
+  "subcategory": [
+    "Electronic Learning Games"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/126-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/126-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/126-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107eb"
+  },
+  "name": "VTech KidiZoom Smartwatch DX2 - Blue",
+  "brand": "VTech",
+  "price": 5999.99,
+  "discount": 0,
+  "description": "Stay connected with your child while they have fun with the VTech KidiZoom Smartwatch DX2. This kid-friendly smartwatch features games, a camera, and parental controls for added safety.",
+  "features": [
+    "Interactive games and activities",
+    "Built-in camera for taking photos and videos",
+    "Parental controls to limit screen time and manage contacts",
+    "Durable design for active play",
+    "Long-lasting battery life"
+  ],
+  "category": [
+    "Tech for Kids",
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Kid-Safe Smartwatches",
+    "Smartwatches"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/127-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/127-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/127-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.33,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6556d68eb47d6ece882107ec"
+  },
+  "name": "GizmoPal 2 by LG - Kid's GPS Smartwatch",
+  "brand": "LG",
+  "price": 4539.99,
+  "discount": 0,
+  "description": "Keep an eye on your child's safety with the GizmoPal 2 by LG. This GPS smartwatch allows communication with parents and features location tracking, ensuring your child's well-being.",
+  "features": [
+    "GPS tracking for real-time location monitoring",
+    "Two-way calling and texting with pre-approved contacts",
+    "SOS button for emergencies",
+    "Safe zones to alert parents when their child enters or leaves a designated area",
+    "Long-lasting battery life"
+  ],
+  "category": [
+    "Tech for Kids",
+    "Wearable Technology"
+  ],
+  "subcategory": [
+    "Kid-Safe Smartwatches",
+    "Smartwatches"
+  ],
+  "image": [
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/128-00.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/128-01.jpg",
+    "https://my-gadget-api-images.s3.ap-southeast-2.amazonaws.com/128-02.jpg"
+  ],
+  "rating": {
+    "rate": 4.67,
+    "count": 3
+  },
+  "created_at": {
+    "$date": "2023-11-17T06:46:45.431Z"
+  },
+  "__v": 0
+}]
