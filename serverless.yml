@@ -6,6 +6,8 @@ plugins:
   - serverless-dotenv-plugin
   - serverless-offline
 provider:
+  httpApi:
+    cors: true
   name: aws
   runtime: nodejs18.x
   region: ap-southeast-2
@@ -157,6 +159,34 @@ functions:
       - httpApi:
           path: /reviews/{id}
           method: DELETE
+
+  cartAdd:
+    handler: src/handlers/cartAdd.handler
+    events:
+      - httpApi:
+          path: /users/cart/add
+          method: POST
+
+  cartUpdate:
+    handler: src/handlers/cartUpdate.handler
+    events:
+      - httpApi:
+          path: /users/cart/update
+          method: PATCH
+
+  cartRemove:
+    handler: src/handlers/cartRemove.handler
+    events:
+      - httpApi:
+          path: /users/cart/remove
+          method: DELETE
+
+  cartView:
+    handler: src/handlers/cartView.handler
+    events:
+      - httpApi:
+          path: /users/cart/{user_id}
+          method: GET
 
   blogList:
     handler: src/handlers/blogList.handler

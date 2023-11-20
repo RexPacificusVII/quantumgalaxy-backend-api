@@ -12,8 +12,12 @@ module.exports.handler = async (event, context) => {
     const { email, password } = requestBody;
 
     // Input validation
-    if (!email || !password) {
-      throw new Error('Email and password are required.');
+    if (!email) {
+      throw new Error('Please enter your email.');
+    }
+
+    if (!password) {
+      throw new Error('Please enter your password.');
     }
 
     // Check if the user with the given email exists
@@ -37,7 +41,9 @@ module.exports.handler = async (event, context) => {
       firstName: user.first_name,
       lastName: user.last_name,
       email: user.email,
-      // Add other user-related data to the session if needed
+      image: user.image,
+      role: user.role,
+      cart: user.cart,
     };
 
     // Set session expiration to 1 hour (adjust as needed)
@@ -55,10 +61,18 @@ module.exports.handler = async (event, context) => {
       headers: {
         'Access-Control-Allow-Origin': '*',
         'Set-Cookie': `sessionId=${Buffer.from(session).toString('base64')}; HttpOnly; Secure; SameSite=None; Expires=${sessionExpiration.toUTCString()}`,
+        // 'Set-Cookie': `sessionId=${Buffer.from(session).toString('base64')}; HttpOnly; SameSite=None; Expires=${sessionExpiration.toUTCString()}`,
+
       },
       body: JSON.stringify({
         message: 'Login successful',
         userId: user._id,
+        firstName: user.first_name,
+        lastName: user.last_name,
+        email: user.email,
+        image: user.image,
+        role: user.role,
+        cart: user.cart,
       }),
     };
 

@@ -7,14 +7,14 @@ module.exports.handler = async (event, context) => {
   try {
     await connectDatabase();
 
-    const { brands, categories, minPrice, maxPrice, minRating } = event.queryStringParameters || {};
+    const { brand, maxPrice, categories, minRating } = event.queryStringParameters || {};
 
     // Build the filter object based on the provided query parameters
     const filter = {};
 
-    if (brands) {
-      // Split the brands into an array and perform OR filtering
-      filter.brand = { $in: brands.split(',') };
+    if (brand) {
+      // Split the brand into an array and perform OR filtering
+      filter.brand = { $in: brand.split(',') };
     }
 
     if (categories) {
@@ -22,10 +22,9 @@ module.exports.handler = async (event, context) => {
       filter.category = { $in: categories.split(',') };
     }
 
-    if (minPrice || maxPrice) {
+    if (maxPrice) {
       // Price range filtering
       filter.price = {};
-      if (minPrice) filter.price.$gte = parseFloat(minPrice);
       if (maxPrice) filter.price.$lte = parseFloat(maxPrice);
     }
 

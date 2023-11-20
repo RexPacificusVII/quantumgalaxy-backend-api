@@ -5,6 +5,21 @@ const bcrypt = require('bcryptjs');
 
 module.exports.handler = async (event, context) => {
   context.callbackWaitsForEmptyEventLoop = false;
+
+  // Handle OPTIONS request
+  if (event.httpMethod === 'OPTIONS') {
+    const response = {
+      statusCode: 200,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'OPTIONS, POST',
+        'Access-Control-Allow-Headers': 'Content-Type',
+      },
+    };
+
+    return response;
+  }
+  
   try {
     await connectDatabase();
 
@@ -47,6 +62,9 @@ module.exports.handler = async (event, context) => {
 
     const response = {
       statusCode: error.statusCode || 500,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+      },
       body: JSON.stringify({ error: error.message }),
     };
 

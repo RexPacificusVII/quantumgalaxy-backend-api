@@ -15,7 +15,7 @@ module.exports.handler = async (event, context) => {
     }
 
     // Fetch the user by ID from the database
-    const user = await User.findById(userId, { password: 0 }); // Exclude the password field from the result
+    const user = await User.findById(userId); // Exclude the password field from the result
 
     // Check if the user with the given ID exists
     if (!user) {
