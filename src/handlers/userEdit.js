@@ -10,7 +10,7 @@ module.exports.handler = async (event, context) => {
 
     const userId = event.pathParameters.id;
     const requestBody = JSON.parse(event.body || '{}');
-    const { first_name, last_name, email, password, image, role } = requestBody;
+    const { first_name, last_name, email, password, image, role, cart } = requestBody;
 
     // Input validation: Check if the userId is provided
     if (!userId) {
@@ -38,6 +38,7 @@ module.exports.handler = async (event, context) => {
 
     if (image) user.image = image;
     if (role) user.role = role;
+    if (cart) user.cart = cart;
 
     // Log user object before saving
     console.log('User object before saving:', user);

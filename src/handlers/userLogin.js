@@ -1,7 +1,8 @@
-const mongoose = require('mongoose');
 const connectDatabase = require('../database/db');
 const bcrypt = require('bcryptjs');
 const User = require('../models/User');
+const jwt = require('jsonwebtoken');
+const config = require('../../config');
 
 module.exports.handler = async (event, context) => {
   context.callbackWaitsForEmptyEventLoop = false;
@@ -35,8 +36,7 @@ module.exports.handler = async (event, context) => {
       throw new Error('Invalid email or password.');
     }
 
-    // Set up session
-    const sessionData = {
+    const tokenPayload = {
       userId: user._id,
       firstName: user.first_name,
       lastName: user.last_name,
@@ -46,26 +46,18 @@ module.exports.handler = async (event, context) => {
       cart: user.cart,
     };
 
-    // Set session expiration to 1 hour (adjust as needed)
-    const sessionExpiration = new Date(Date.now() + 3600000); // 1 hour in milliseconds
-
-    // Store session data
-    const session = JSON.stringify({
-      data: sessionData,
-      expires: sessionExpiration.toISOString(),
-    });
+    // Generate JWT Token using the updated payload
+    const token = jwt.sign(tokenPayload, config.jwtSecret, { expiresIn: config.jwtExpiration });
 
     // Return a success message or additional user details if needed
     const response = {
       statusCode: 200,
       headers: {
         'Access-Control-Allow-Origin': '*',
-        'Set-Cookie': `sessionId=${Buffer.from(session).toString('base64')}; HttpOnly; Secure; SameSite=None; Expires=${sessionExpiration.toUTCString()}`,
-        // 'Set-Cookie': `sessionId=${Buffer.from(session).toString('base64')}; HttpOnly; SameSite=None; Expires=${sessionExpiration.toUTCString()}`,
-
       },
       body: JSON.stringify({
         message: 'Login successful',
+        token: token,
         userId: user._id,
         firstName: user.first_name,
         lastName: user.last_name,
