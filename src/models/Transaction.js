@@ -4,7 +4,7 @@ const User = require('./User');
 
 const transactionSchema = new mongoose.Schema({
   type: { type: String, default: 'purchase' },
-  user_id: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
+  user_id: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
   products: [
     {
       product_id: { type: mongoose.Schema.Types.ObjectId, ref: 'Product', required: true },
