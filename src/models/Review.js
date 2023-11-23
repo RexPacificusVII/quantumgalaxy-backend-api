@@ -1,8 +1,10 @@
 const mongoose = require('mongoose');
+// const Transaction = require('./Transaction');
 const Product = require('./Product');
 const User = require('./User');
 
 const reviewSchema = new mongoose.Schema({
+  // transaction_id: { type: mongoose.Schema.Types.ObjectId, ref: 'Transaction', required: true },
   product_id: { type: mongoose.Schema.Types.ObjectId, ref: 'Product', required: true },
   user_id: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
   rating: { type: Number, required: true },

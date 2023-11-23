@@ -111,6 +111,27 @@ functions:
           path: /products/filter
           method: GET
 
+  transactionList:
+    handler: src/handlers/transactionList.handler
+    events:
+      - httpApi:
+          path: /transactions
+          method: GET
+
+  transactionGet:
+    handler: src/handlers/transactionGet.handler
+    events:
+      - httpApi:
+          path: /transactions/{id}
+          method: GET
+
+  transactionAdd:
+    handler: src/handlers/transactionAdd.handler
+    events:
+      - httpApi:
+          path: /transactions
+          method: POST
+
   reviewList:
     handler: src/handlers/reviewList.handler
     events:
